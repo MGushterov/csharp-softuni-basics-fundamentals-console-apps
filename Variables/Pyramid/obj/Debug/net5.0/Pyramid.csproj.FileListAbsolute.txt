@@ -1,0 +1,16 @@
+C:\Users\Mishan\source\repos\Variables\Pyramid\bin\Debug\net5.0\Pyramid.exe
+C:\Users\Mishan\source\repos\Variables\Pyramid\bin\Debug\net5.0\Pyramid.deps.json
+C:\Users\Mishan\source\repos\Variables\Pyramid\bin\Debug\net5.0\Pyramid.runtimeconfig.json
+C:\Users\Mishan\source\repos\Variables\Pyramid\bin\Debug\net5.0\Pyramid.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\Variables\Pyramid\bin\Debug\net5.0\Pyramid.dll
+C:\Users\Mishan\source\repos\Variables\Pyramid\bin\Debug\net5.0\ref\Pyramid.dll
+C:\Users\Mishan\source\repos\Variables\Pyramid\bin\Debug\net5.0\Pyramid.pdb
+C:\Users\Mishan\source\repos\Variables\Pyramid\obj\Debug\net5.0\Pyramid.csproj.AssemblyReference.cache
+C:\Users\Mishan\source\repos\Variables\Pyramid\obj\Debug\net5.0\Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\Variables\Pyramid\obj\Debug\net5.0\Pyramid.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\Variables\Pyramid\obj\Debug\net5.0\Pyramid.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\Variables\Pyramid\obj\Debug\net5.0\Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\Variables\Pyramid\obj\Debug\net5.0\Pyramid.dll
+C:\Users\Mishan\source\repos\Variables\Pyramid\obj\Debug\net5.0\ref\Pyramid.dll
+C:\Users\Mishan\source\repos\Variables\Pyramid\obj\Debug\net5.0\Pyramid.pdb
+C:\Users\Mishan\source\repos\Variables\Pyramid\obj\Debug\net5.0\Pyramid.genruntimeconfig.cache

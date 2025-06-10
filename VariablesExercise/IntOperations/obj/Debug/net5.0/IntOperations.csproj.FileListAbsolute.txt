@@ -1,0 +1,16 @@
+C:\Users\Mishan\source\repos\VariablesExercise\IntOperations\bin\Debug\net5.0\IntOperations.exe
+C:\Users\Mishan\source\repos\VariablesExercise\IntOperations\bin\Debug\net5.0\IntOperations.deps.json
+C:\Users\Mishan\source\repos\VariablesExercise\IntOperations\bin\Debug\net5.0\IntOperations.runtimeconfig.json
+C:\Users\Mishan\source\repos\VariablesExercise\IntOperations\bin\Debug\net5.0\IntOperations.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\VariablesExercise\IntOperations\bin\Debug\net5.0\IntOperations.dll
+C:\Users\Mishan\source\repos\VariablesExercise\IntOperations\bin\Debug\net5.0\ref\IntOperations.dll
+C:\Users\Mishan\source\repos\VariablesExercise\IntOperations\bin\Debug\net5.0\IntOperations.pdb
+C:\Users\Mishan\source\repos\VariablesExercise\IntOperations\obj\Debug\net5.0\IntOperations.csproj.AssemblyReference.cache
+C:\Users\Mishan\source\repos\VariablesExercise\IntOperations\obj\Debug\net5.0\IntOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\VariablesExercise\IntOperations\obj\Debug\net5.0\IntOperations.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\VariablesExercise\IntOperations\obj\Debug\net5.0\IntOperations.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\VariablesExercise\IntOperations\obj\Debug\net5.0\IntOperations.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\VariablesExercise\IntOperations\obj\Debug\net5.0\IntOperations.dll
+C:\Users\Mishan\source\repos\VariablesExercise\IntOperations\obj\Debug\net5.0\ref\IntOperations.dll
+C:\Users\Mishan\source\repos\VariablesExercise\IntOperations\obj\Debug\net5.0\IntOperations.pdb
+C:\Users\Mishan\source\repos\VariablesExercise\IntOperations\obj\Debug\net5.0\IntOperations.genruntimeconfig.cache

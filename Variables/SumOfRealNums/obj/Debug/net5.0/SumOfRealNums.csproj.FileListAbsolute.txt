@@ -1,0 +1,16 @@
+C:\Users\Mishan\source\repos\Variables\SumOfRealNums\bin\Debug\net5.0\SumOfRealNums.exe
+C:\Users\Mishan\source\repos\Variables\SumOfRealNums\bin\Debug\net5.0\SumOfRealNums.deps.json
+C:\Users\Mishan\source\repos\Variables\SumOfRealNums\bin\Debug\net5.0\SumOfRealNums.runtimeconfig.json
+C:\Users\Mishan\source\repos\Variables\SumOfRealNums\bin\Debug\net5.0\SumOfRealNums.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\Variables\SumOfRealNums\bin\Debug\net5.0\SumOfRealNums.dll
+C:\Users\Mishan\source\repos\Variables\SumOfRealNums\bin\Debug\net5.0\ref\SumOfRealNums.dll
+C:\Users\Mishan\source\repos\Variables\SumOfRealNums\bin\Debug\net5.0\SumOfRealNums.pdb
+C:\Users\Mishan\source\repos\Variables\SumOfRealNums\obj\Debug\net5.0\SumOfRealNums.csproj.AssemblyReference.cache
+C:\Users\Mishan\source\repos\Variables\SumOfRealNums\obj\Debug\net5.0\SumOfRealNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\Variables\SumOfRealNums\obj\Debug\net5.0\SumOfRealNums.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\Variables\SumOfRealNums\obj\Debug\net5.0\SumOfRealNums.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\Variables\SumOfRealNums\obj\Debug\net5.0\SumOfRealNums.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\Variables\SumOfRealNums\obj\Debug\net5.0\SumOfRealNums.dll
+C:\Users\Mishan\source\repos\Variables\SumOfRealNums\obj\Debug\net5.0\ref\SumOfRealNums.dll
+C:\Users\Mishan\source\repos\Variables\SumOfRealNums\obj\Debug\net5.0\SumOfRealNums.pdb
+C:\Users\Mishan\source\repos\Variables\SumOfRealNums\obj\Debug\net5.0\SumOfRealNums.genruntimeconfig.cache

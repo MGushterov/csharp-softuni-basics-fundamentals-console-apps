@@ -1,0 +1,15 @@
+C:\Users\Mishan\source\repos\ages\AddSum\bin\Debug\net5.0\AddSum.exe
+C:\Users\Mishan\source\repos\ages\AddSum\bin\Debug\net5.0\AddSum.deps.json
+C:\Users\Mishan\source\repos\ages\AddSum\bin\Debug\net5.0\AddSum.runtimeconfig.json
+C:\Users\Mishan\source\repos\ages\AddSum\bin\Debug\net5.0\AddSum.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\ages\AddSum\bin\Debug\net5.0\AddSum.dll
+C:\Users\Mishan\source\repos\ages\AddSum\bin\Debug\net5.0\ref\AddSum.dll
+C:\Users\Mishan\source\repos\ages\AddSum\bin\Debug\net5.0\AddSum.pdb
+C:\Users\Mishan\source\repos\ages\AddSum\obj\Debug\net5.0\AddSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\ages\AddSum\obj\Debug\net5.0\AddSum.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\ages\AddSum\obj\Debug\net5.0\AddSum.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\ages\AddSum\obj\Debug\net5.0\AddSum.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\ages\AddSum\obj\Debug\net5.0\AddSum.dll
+C:\Users\Mishan\source\repos\ages\AddSum\obj\Debug\net5.0\ref\AddSum.dll
+C:\Users\Mishan\source\repos\ages\AddSum\obj\Debug\net5.0\AddSum.pdb
+C:\Users\Mishan\source\repos\ages\AddSum\obj\Debug\net5.0\AddSum.genruntimeconfig.cache

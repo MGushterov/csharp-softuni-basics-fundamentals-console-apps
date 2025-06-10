@@ -1,0 +1,16 @@
+C:\Users\Mishan\source\repos\Variables\PoundsToDollars\bin\Debug\net5.0\PoundsToDollars.exe
+C:\Users\Mishan\source\repos\Variables\PoundsToDollars\bin\Debug\net5.0\PoundsToDollars.deps.json
+C:\Users\Mishan\source\repos\Variables\PoundsToDollars\bin\Debug\net5.0\PoundsToDollars.runtimeconfig.json
+C:\Users\Mishan\source\repos\Variables\PoundsToDollars\bin\Debug\net5.0\PoundsToDollars.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\Variables\PoundsToDollars\bin\Debug\net5.0\PoundsToDollars.dll
+C:\Users\Mishan\source\repos\Variables\PoundsToDollars\bin\Debug\net5.0\ref\PoundsToDollars.dll
+C:\Users\Mishan\source\repos\Variables\PoundsToDollars\bin\Debug\net5.0\PoundsToDollars.pdb
+C:\Users\Mishan\source\repos\Variables\PoundsToDollars\obj\Debug\net5.0\PoundsToDollars.csproj.AssemblyReference.cache
+C:\Users\Mishan\source\repos\Variables\PoundsToDollars\obj\Debug\net5.0\PoundsToDollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\Variables\PoundsToDollars\obj\Debug\net5.0\PoundsToDollars.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\Variables\PoundsToDollars\obj\Debug\net5.0\PoundsToDollars.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\Variables\PoundsToDollars\obj\Debug\net5.0\PoundsToDollars.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\Variables\PoundsToDollars\obj\Debug\net5.0\PoundsToDollars.dll
+C:\Users\Mishan\source\repos\Variables\PoundsToDollars\obj\Debug\net5.0\ref\PoundsToDollars.dll
+C:\Users\Mishan\source\repos\Variables\PoundsToDollars\obj\Debug\net5.0\PoundsToDollars.pdb
+C:\Users\Mishan\source\repos\Variables\PoundsToDollars\obj\Debug\net5.0\PoundsToDollars.genruntimeconfig.cache

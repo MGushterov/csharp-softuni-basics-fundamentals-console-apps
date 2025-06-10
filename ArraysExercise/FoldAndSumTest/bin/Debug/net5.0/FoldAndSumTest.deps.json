@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FoldAndSumTest/1.0.0": {
+        "runtime": {
+          "FoldAndSumTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FoldAndSumTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

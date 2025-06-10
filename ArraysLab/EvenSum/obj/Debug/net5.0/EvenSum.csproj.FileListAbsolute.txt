@@ -1,0 +1,15 @@
+C:\Users\Mishan\source\repos\ArraysLab\EvenSum\bin\Debug\net5.0\EvenSum.exe
+C:\Users\Mishan\source\repos\ArraysLab\EvenSum\bin\Debug\net5.0\EvenSum.deps.json
+C:\Users\Mishan\source\repos\ArraysLab\EvenSum\bin\Debug\net5.0\EvenSum.runtimeconfig.json
+C:\Users\Mishan\source\repos\ArraysLab\EvenSum\bin\Debug\net5.0\EvenSum.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\ArraysLab\EvenSum\bin\Debug\net5.0\EvenSum.dll
+C:\Users\Mishan\source\repos\ArraysLab\EvenSum\bin\Debug\net5.0\ref\EvenSum.dll
+C:\Users\Mishan\source\repos\ArraysLab\EvenSum\bin\Debug\net5.0\EvenSum.pdb
+C:\Users\Mishan\source\repos\ArraysLab\EvenSum\obj\Debug\net5.0\EvenSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\ArraysLab\EvenSum\obj\Debug\net5.0\EvenSum.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\ArraysLab\EvenSum\obj\Debug\net5.0\EvenSum.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\ArraysLab\EvenSum\obj\Debug\net5.0\EvenSum.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\ArraysLab\EvenSum\obj\Debug\net5.0\EvenSum.dll
+C:\Users\Mishan\source\repos\ArraysLab\EvenSum\obj\Debug\net5.0\ref\EvenSum.dll
+C:\Users\Mishan\source\repos\ArraysLab\EvenSum\obj\Debug\net5.0\EvenSum.pdb
+C:\Users\Mishan\source\repos\ArraysLab\EvenSum\obj\Debug\net5.0\EvenSum.genruntimeconfig.cache

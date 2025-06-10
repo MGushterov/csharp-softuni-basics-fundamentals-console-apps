@@ -1,0 +1,15 @@
+C:\Users\Mishan\source\repos\Variables\SpecialNums\bin\Debug\net5.0\SpecialNums.exe
+C:\Users\Mishan\source\repos\Variables\SpecialNums\bin\Debug\net5.0\SpecialNums.deps.json
+C:\Users\Mishan\source\repos\Variables\SpecialNums\bin\Debug\net5.0\SpecialNums.runtimeconfig.json
+C:\Users\Mishan\source\repos\Variables\SpecialNums\bin\Debug\net5.0\SpecialNums.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\Variables\SpecialNums\bin\Debug\net5.0\SpecialNums.dll
+C:\Users\Mishan\source\repos\Variables\SpecialNums\bin\Debug\net5.0\ref\SpecialNums.dll
+C:\Users\Mishan\source\repos\Variables\SpecialNums\bin\Debug\net5.0\SpecialNums.pdb
+C:\Users\Mishan\source\repos\Variables\SpecialNums\obj\Debug\net5.0\SpecialNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\Variables\SpecialNums\obj\Debug\net5.0\SpecialNums.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\Variables\SpecialNums\obj\Debug\net5.0\SpecialNums.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\Variables\SpecialNums\obj\Debug\net5.0\SpecialNums.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\Variables\SpecialNums\obj\Debug\net5.0\SpecialNums.dll
+C:\Users\Mishan\source\repos\Variables\SpecialNums\obj\Debug\net5.0\ref\SpecialNums.dll
+C:\Users\Mishan\source\repos\Variables\SpecialNums\obj\Debug\net5.0\SpecialNums.pdb
+C:\Users\Mishan\source\repos\Variables\SpecialNums\obj\Debug\net5.0\SpecialNums.genruntimeconfig.cache

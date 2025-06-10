@@ -1,0 +1,16 @@
+C:\Users\Mishan\source\repos\ArraysExercise\EncryptSortPrint\bin\Debug\net5.0\EncryptSortPrint.exe
+C:\Users\Mishan\source\repos\ArraysExercise\EncryptSortPrint\bin\Debug\net5.0\EncryptSortPrint.deps.json
+C:\Users\Mishan\source\repos\ArraysExercise\EncryptSortPrint\bin\Debug\net5.0\EncryptSortPrint.runtimeconfig.json
+C:\Users\Mishan\source\repos\ArraysExercise\EncryptSortPrint\bin\Debug\net5.0\EncryptSortPrint.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\ArraysExercise\EncryptSortPrint\bin\Debug\net5.0\EncryptSortPrint.dll
+C:\Users\Mishan\source\repos\ArraysExercise\EncryptSortPrint\bin\Debug\net5.0\ref\EncryptSortPrint.dll
+C:\Users\Mishan\source\repos\ArraysExercise\EncryptSortPrint\bin\Debug\net5.0\EncryptSortPrint.pdb
+C:\Users\Mishan\source\repos\ArraysExercise\EncryptSortPrint\obj\Debug\net5.0\EncryptSortPrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\ArraysExercise\EncryptSortPrint\obj\Debug\net5.0\EncryptSortPrint.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\ArraysExercise\EncryptSortPrint\obj\Debug\net5.0\EncryptSortPrint.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\ArraysExercise\EncryptSortPrint\obj\Debug\net5.0\EncryptSortPrint.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\ArraysExercise\EncryptSortPrint\obj\Debug\net5.0\EncryptSortPrint.dll
+C:\Users\Mishan\source\repos\ArraysExercise\EncryptSortPrint\obj\Debug\net5.0\ref\EncryptSortPrint.dll
+C:\Users\Mishan\source\repos\ArraysExercise\EncryptSortPrint\obj\Debug\net5.0\EncryptSortPrint.pdb
+C:\Users\Mishan\source\repos\ArraysExercise\EncryptSortPrint\obj\Debug\net5.0\EncryptSortPrint.genruntimeconfig.cache
+C:\Users\Mishan\source\repos\ArraysExercise\EncryptSortPrint\obj\Debug\net5.0\EncryptSortPrint.csproj.AssemblyReference.cache

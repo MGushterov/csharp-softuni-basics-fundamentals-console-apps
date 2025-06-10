@@ -1,0 +1,15 @@
+C:\Users\Mishan\source\repos\Variables\ReversedChars\bin\Debug\net5.0\ReversedChars.exe
+C:\Users\Mishan\source\repos\Variables\ReversedChars\bin\Debug\net5.0\ReversedChars.deps.json
+C:\Users\Mishan\source\repos\Variables\ReversedChars\bin\Debug\net5.0\ReversedChars.runtimeconfig.json
+C:\Users\Mishan\source\repos\Variables\ReversedChars\bin\Debug\net5.0\ReversedChars.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\Variables\ReversedChars\bin\Debug\net5.0\ReversedChars.dll
+C:\Users\Mishan\source\repos\Variables\ReversedChars\bin\Debug\net5.0\ref\ReversedChars.dll
+C:\Users\Mishan\source\repos\Variables\ReversedChars\bin\Debug\net5.0\ReversedChars.pdb
+C:\Users\Mishan\source\repos\Variables\ReversedChars\obj\Debug\net5.0\ReversedChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\Variables\ReversedChars\obj\Debug\net5.0\ReversedChars.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\Variables\ReversedChars\obj\Debug\net5.0\ReversedChars.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\Variables\ReversedChars\obj\Debug\net5.0\ReversedChars.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\Variables\ReversedChars\obj\Debug\net5.0\ReversedChars.dll
+C:\Users\Mishan\source\repos\Variables\ReversedChars\obj\Debug\net5.0\ref\ReversedChars.dll
+C:\Users\Mishan\source\repos\Variables\ReversedChars\obj\Debug\net5.0\ReversedChars.pdb
+C:\Users\Mishan\source\repos\Variables\ReversedChars\obj\Debug\net5.0\ReversedChars.genruntimeconfig.cache

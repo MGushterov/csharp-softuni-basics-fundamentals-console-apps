@@ -1,0 +1,16 @@
+C:\Users\Mishan\source\repos\ArraysExercise\Train\bin\Debug\net5.0\Train.exe
+C:\Users\Mishan\source\repos\ArraysExercise\Train\bin\Debug\net5.0\Train.deps.json
+C:\Users\Mishan\source\repos\ArraysExercise\Train\bin\Debug\net5.0\Train.runtimeconfig.json
+C:\Users\Mishan\source\repos\ArraysExercise\Train\bin\Debug\net5.0\Train.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\ArraysExercise\Train\bin\Debug\net5.0\Train.dll
+C:\Users\Mishan\source\repos\ArraysExercise\Train\bin\Debug\net5.0\ref\Train.dll
+C:\Users\Mishan\source\repos\ArraysExercise\Train\bin\Debug\net5.0\Train.pdb
+C:\Users\Mishan\source\repos\ArraysExercise\Train\obj\Debug\net5.0\Train.csproj.AssemblyReference.cache
+C:\Users\Mishan\source\repos\ArraysExercise\Train\obj\Debug\net5.0\Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\ArraysExercise\Train\obj\Debug\net5.0\Train.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\ArraysExercise\Train\obj\Debug\net5.0\Train.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\ArraysExercise\Train\obj\Debug\net5.0\Train.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\ArraysExercise\Train\obj\Debug\net5.0\Train.dll
+C:\Users\Mishan\source\repos\ArraysExercise\Train\obj\Debug\net5.0\ref\Train.dll
+C:\Users\Mishan\source\repos\ArraysExercise\Train\obj\Debug\net5.0\Train.pdb
+C:\Users\Mishan\source\repos\ArraysExercise\Train\obj\Debug\net5.0\Train.genruntimeconfig.cache

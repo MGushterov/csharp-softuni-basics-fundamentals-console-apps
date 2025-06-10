@@ -1,0 +1,16 @@
+C:\Users\Mishan\source\repos\ArraysLab\EqualArrays\bin\Debug\net5.0\EqualArrays.exe
+C:\Users\Mishan\source\repos\ArraysLab\EqualArrays\bin\Debug\net5.0\EqualArrays.deps.json
+C:\Users\Mishan\source\repos\ArraysLab\EqualArrays\bin\Debug\net5.0\EqualArrays.runtimeconfig.json
+C:\Users\Mishan\source\repos\ArraysLab\EqualArrays\bin\Debug\net5.0\EqualArrays.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\ArraysLab\EqualArrays\bin\Debug\net5.0\EqualArrays.dll
+C:\Users\Mishan\source\repos\ArraysLab\EqualArrays\bin\Debug\net5.0\ref\EqualArrays.dll
+C:\Users\Mishan\source\repos\ArraysLab\EqualArrays\bin\Debug\net5.0\EqualArrays.pdb
+C:\Users\Mishan\source\repos\ArraysLab\EqualArrays\obj\Debug\net5.0\EqualArrays.csproj.AssemblyReference.cache
+C:\Users\Mishan\source\repos\ArraysLab\EqualArrays\obj\Debug\net5.0\EqualArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\ArraysLab\EqualArrays\obj\Debug\net5.0\EqualArrays.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\ArraysLab\EqualArrays\obj\Debug\net5.0\EqualArrays.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\ArraysLab\EqualArrays\obj\Debug\net5.0\EqualArrays.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\ArraysLab\EqualArrays\obj\Debug\net5.0\EqualArrays.dll
+C:\Users\Mishan\source\repos\ArraysLab\EqualArrays\obj\Debug\net5.0\ref\EqualArrays.dll
+C:\Users\Mishan\source\repos\ArraysLab\EqualArrays\obj\Debug\net5.0\EqualArrays.pdb
+C:\Users\Mishan\source\repos\ArraysLab\EqualArrays\obj\Debug\net5.0\EqualArrays.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Mishan\source\repos\ArraysExercise\LIS\obj\Debug\net5.0\LIS.csproj.AssemblyReference.cache
+C:\Users\Mishan\source\repos\ArraysExercise\LIS\obj\Debug\net5.0\LIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\ArraysExercise\LIS\obj\Debug\net5.0\LIS.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\ArraysExercise\LIS\obj\Debug\net5.0\LIS.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\ArraysExercise\LIS\obj\Debug\net5.0\LIS.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\ArraysExercise\LIS\bin\Debug\net5.0\LIS.exe
+C:\Users\Mishan\source\repos\ArraysExercise\LIS\bin\Debug\net5.0\LIS.deps.json
+C:\Users\Mishan\source\repos\ArraysExercise\LIS\bin\Debug\net5.0\LIS.runtimeconfig.json
+C:\Users\Mishan\source\repos\ArraysExercise\LIS\bin\Debug\net5.0\LIS.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\ArraysExercise\LIS\bin\Debug\net5.0\LIS.dll
+C:\Users\Mishan\source\repos\ArraysExercise\LIS\bin\Debug\net5.0\ref\LIS.dll
+C:\Users\Mishan\source\repos\ArraysExercise\LIS\bin\Debug\net5.0\LIS.pdb
+C:\Users\Mishan\source\repos\ArraysExercise\LIS\obj\Debug\net5.0\LIS.dll
+C:\Users\Mishan\source\repos\ArraysExercise\LIS\obj\Debug\net5.0\ref\LIS.dll
+C:\Users\Mishan\source\repos\ArraysExercise\LIS\obj\Debug\net5.0\LIS.pdb
+C:\Users\Mishan\source\repos\ArraysExercise\LIS\obj\Debug\net5.0\LIS.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Mishan\source\repos\ArraysExercise\LadyBugs\bin\Debug\net5.0\LadyBugs.exe
+C:\Users\Mishan\source\repos\ArraysExercise\LadyBugs\bin\Debug\net5.0\LadyBugs.deps.json
+C:\Users\Mishan\source\repos\ArraysExercise\LadyBugs\bin\Debug\net5.0\LadyBugs.runtimeconfig.json
+C:\Users\Mishan\source\repos\ArraysExercise\LadyBugs\bin\Debug\net5.0\LadyBugs.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\ArraysExercise\LadyBugs\bin\Debug\net5.0\LadyBugs.dll
+C:\Users\Mishan\source\repos\ArraysExercise\LadyBugs\bin\Debug\net5.0\ref\LadyBugs.dll
+C:\Users\Mishan\source\repos\ArraysExercise\LadyBugs\bin\Debug\net5.0\LadyBugs.pdb
+C:\Users\Mishan\source\repos\ArraysExercise\LadyBugs\obj\Debug\net5.0\LadyBugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\ArraysExercise\LadyBugs\obj\Debug\net5.0\LadyBugs.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\ArraysExercise\LadyBugs\obj\Debug\net5.0\LadyBugs.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\ArraysExercise\LadyBugs\obj\Debug\net5.0\LadyBugs.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\ArraysExercise\LadyBugs\obj\Debug\net5.0\LadyBugs.dll
+C:\Users\Mishan\source\repos\ArraysExercise\LadyBugs\obj\Debug\net5.0\ref\LadyBugs.dll
+C:\Users\Mishan\source\repos\ArraysExercise\LadyBugs\obj\Debug\net5.0\LadyBugs.pdb
+C:\Users\Mishan\source\repos\ArraysExercise\LadyBugs\obj\Debug\net5.0\LadyBugs.genruntimeconfig.cache
+C:\Users\Mishan\source\repos\ArraysExercise\LadyBugs\obj\Debug\net5.0\LadyBugs.csproj.AssemblyReference.cache

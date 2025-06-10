@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f6c8462a-ddad-4244-a26a-d86b4b398e19": {
+      "ProjectGuid": "f6c8462a-ddad-4244-a26a-d86b4b398e19",
+      "DisplayName": "SmallestOfThreeNums",
+      "ColorIndex": 0
+    },
+    "5700d607-2f93-4561-aed1-1356fe1619b7": {
+      "ProjectGuid": "5700d607-2f93-4561-aed1-1356fe1619b7",
+      "DisplayName": "VowelsCount",
+      "ColorIndex": 1
+    },
+    "5c3a7b3e-a445-43ab-adca-75e9997117f0": {
+      "ProjectGuid": "5c3a7b3e-a445-43ab-adca-75e9997117f0",
+      "DisplayName": "CharsInRange",
+      "ColorIndex": 2
+    },
+    "085d5c20-ac91-443d-8cb1-034843f6bdc1": {
+      "ProjectGuid": "085d5c20-ac91-443d-8cb1-034843f6bdc1",
+      "DisplayName": "PasswordValidator",
+      "ColorIndex": 3
+    },
+    "809c8741-c5b6-4e60-a7f3-0c8070ef33a1": {
+      "ProjectGuid": "809c8741-c5b6-4e60-a7f3-0c8070ef33a1",
+      "DisplayName": "FactorialDivision",
+      "ColorIndex": 4
+    },
+    "e7dd201f-4243-4da9-86e8-4b9cdc6e1c72": {
+      "ProjectGuid": "e7dd201f-4243-4da9-86e8-4b9cdc6e1c72",
+      "DisplayName": "NxN",
+      "ColorIndex": 5
+    },
+    "8544e633-f88f-43a8-9af6-46186416fd71": {
+      "ProjectGuid": "8544e633-f88f-43a8-9af6-46186416fd71",
+      "DisplayName": "MiddleChars",
+      "ColorIndex": 6
+    },
+    "04db37bd-bb6d-41c1-a02a-cf5438cde862": {
+      "ProjectGuid": "04db37bd-bb6d-41c1-a02a-cf5438cde862",
+      "DisplayName": "AddAndSubtract",
+      "ColorIndex": 7
+    },
+    "9a76e86e-efdc-4fc1-b6f8-18e018b4e070": {
+      "ProjectGuid": "9a76e86e-efdc-4fc1-b6f8-18e018b4e070",
+      "DisplayName": "PalindromeIntegers",
+      "ColorIndex": 8
+    },
+    "ed175768-923e-46e6-9854-ed59d8ce8266": {
+      "ProjectGuid": "ed175768-923e-46e6-9854-ed59d8ce8266",
+      "DisplayName": "TopNumber",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

@@ -1,0 +1,15 @@
+C:\Users\Mishan\source\repos\ArraysLab\ReversedStrings\bin\Debug\net5.0\ReversedStrings.exe
+C:\Users\Mishan\source\repos\ArraysLab\ReversedStrings\bin\Debug\net5.0\ReversedStrings.deps.json
+C:\Users\Mishan\source\repos\ArraysLab\ReversedStrings\bin\Debug\net5.0\ReversedStrings.runtimeconfig.json
+C:\Users\Mishan\source\repos\ArraysLab\ReversedStrings\bin\Debug\net5.0\ReversedStrings.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\ArraysLab\ReversedStrings\bin\Debug\net5.0\ReversedStrings.dll
+C:\Users\Mishan\source\repos\ArraysLab\ReversedStrings\bin\Debug\net5.0\ref\ReversedStrings.dll
+C:\Users\Mishan\source\repos\ArraysLab\ReversedStrings\bin\Debug\net5.0\ReversedStrings.pdb
+C:\Users\Mishan\source\repos\ArraysLab\ReversedStrings\obj\Debug\net5.0\ReversedStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\ArraysLab\ReversedStrings\obj\Debug\net5.0\ReversedStrings.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\ArraysLab\ReversedStrings\obj\Debug\net5.0\ReversedStrings.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\ArraysLab\ReversedStrings\obj\Debug\net5.0\ReversedStrings.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\ArraysLab\ReversedStrings\obj\Debug\net5.0\ReversedStrings.dll
+C:\Users\Mishan\source\repos\ArraysLab\ReversedStrings\obj\Debug\net5.0\ref\ReversedStrings.dll
+C:\Users\Mishan\source\repos\ArraysLab\ReversedStrings\obj\Debug\net5.0\ReversedStrings.pdb
+C:\Users\Mishan\source\repos\ArraysLab\ReversedStrings\obj\Debug\net5.0\ReversedStrings.genruntimeconfig.cache

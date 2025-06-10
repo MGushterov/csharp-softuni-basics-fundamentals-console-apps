@@ -1,0 +1,15 @@
+C:\Users\Mishan\source\repos\VariablesExercise\TriplesOfLatinNums\bin\Debug\net5.0\TriplesOfLatinNums.exe
+C:\Users\Mishan\source\repos\VariablesExercise\TriplesOfLatinNums\bin\Debug\net5.0\TriplesOfLatinNums.deps.json
+C:\Users\Mishan\source\repos\VariablesExercise\TriplesOfLatinNums\bin\Debug\net5.0\TriplesOfLatinNums.runtimeconfig.json
+C:\Users\Mishan\source\repos\VariablesExercise\TriplesOfLatinNums\bin\Debug\net5.0\TriplesOfLatinNums.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\VariablesExercise\TriplesOfLatinNums\bin\Debug\net5.0\TriplesOfLatinNums.dll
+C:\Users\Mishan\source\repos\VariablesExercise\TriplesOfLatinNums\bin\Debug\net5.0\ref\TriplesOfLatinNums.dll
+C:\Users\Mishan\source\repos\VariablesExercise\TriplesOfLatinNums\bin\Debug\net5.0\TriplesOfLatinNums.pdb
+C:\Users\Mishan\source\repos\VariablesExercise\TriplesOfLatinNums\obj\Debug\net5.0\TriplesOfLatinNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\VariablesExercise\TriplesOfLatinNums\obj\Debug\net5.0\TriplesOfLatinNums.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\VariablesExercise\TriplesOfLatinNums\obj\Debug\net5.0\TriplesOfLatinNums.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\VariablesExercise\TriplesOfLatinNums\obj\Debug\net5.0\TriplesOfLatinNums.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\VariablesExercise\TriplesOfLatinNums\obj\Debug\net5.0\TriplesOfLatinNums.dll
+C:\Users\Mishan\source\repos\VariablesExercise\TriplesOfLatinNums\obj\Debug\net5.0\ref\TriplesOfLatinNums.dll
+C:\Users\Mishan\source\repos\VariablesExercise\TriplesOfLatinNums\obj\Debug\net5.0\TriplesOfLatinNums.pdb
+C:\Users\Mishan\source\repos\VariablesExercise\TriplesOfLatinNums\obj\Debug\net5.0\TriplesOfLatinNums.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Mishan\source\repos\ArraysLab\RoundNums\bin\Debug\net5.0\RoundNums.exe
+C:\Users\Mishan\source\repos\ArraysLab\RoundNums\bin\Debug\net5.0\RoundNums.deps.json
+C:\Users\Mishan\source\repos\ArraysLab\RoundNums\bin\Debug\net5.0\RoundNums.runtimeconfig.json
+C:\Users\Mishan\source\repos\ArraysLab\RoundNums\bin\Debug\net5.0\RoundNums.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\ArraysLab\RoundNums\bin\Debug\net5.0\RoundNums.dll
+C:\Users\Mishan\source\repos\ArraysLab\RoundNums\bin\Debug\net5.0\ref\RoundNums.dll
+C:\Users\Mishan\source\repos\ArraysLab\RoundNums\bin\Debug\net5.0\RoundNums.pdb
+C:\Users\Mishan\source\repos\ArraysLab\RoundNums\obj\Debug\net5.0\RoundNums.csproj.AssemblyReference.cache
+C:\Users\Mishan\source\repos\ArraysLab\RoundNums\obj\Debug\net5.0\RoundNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\ArraysLab\RoundNums\obj\Debug\net5.0\RoundNums.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\ArraysLab\RoundNums\obj\Debug\net5.0\RoundNums.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\ArraysLab\RoundNums\obj\Debug\net5.0\RoundNums.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\ArraysLab\RoundNums\obj\Debug\net5.0\RoundNums.dll
+C:\Users\Mishan\source\repos\ArraysLab\RoundNums\obj\Debug\net5.0\ref\RoundNums.dll
+C:\Users\Mishan\source\repos\ArraysLab\RoundNums\obj\Debug\net5.0\RoundNums.pdb
+C:\Users\Mishan\source\repos\ArraysLab\RoundNums\obj\Debug\net5.0\RoundNums.genruntimeconfig.cache

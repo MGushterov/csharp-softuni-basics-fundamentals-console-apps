@@ -1,0 +1,16 @@
+C:\Users\Mishan\source\repos\BasicSyntaxLab\TheatrePromotion\bin\Debug\net5.0\TheatrePromotion.exe
+C:\Users\Mishan\source\repos\BasicSyntaxLab\TheatrePromotion\bin\Debug\net5.0\TheatrePromotion.deps.json
+C:\Users\Mishan\source\repos\BasicSyntaxLab\TheatrePromotion\bin\Debug\net5.0\TheatrePromotion.runtimeconfig.json
+C:\Users\Mishan\source\repos\BasicSyntaxLab\TheatrePromotion\bin\Debug\net5.0\TheatrePromotion.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\BasicSyntaxLab\TheatrePromotion\bin\Debug\net5.0\TheatrePromotion.dll
+C:\Users\Mishan\source\repos\BasicSyntaxLab\TheatrePromotion\bin\Debug\net5.0\ref\TheatrePromotion.dll
+C:\Users\Mishan\source\repos\BasicSyntaxLab\TheatrePromotion\bin\Debug\net5.0\TheatrePromotion.pdb
+C:\Users\Mishan\source\repos\BasicSyntaxLab\TheatrePromotion\obj\Debug\net5.0\TheatrePromotion.csproj.AssemblyReference.cache
+C:\Users\Mishan\source\repos\BasicSyntaxLab\TheatrePromotion\obj\Debug\net5.0\TheatrePromotion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\BasicSyntaxLab\TheatrePromotion\obj\Debug\net5.0\TheatrePromotion.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\BasicSyntaxLab\TheatrePromotion\obj\Debug\net5.0\TheatrePromotion.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\BasicSyntaxLab\TheatrePromotion\obj\Debug\net5.0\TheatrePromotion.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\BasicSyntaxLab\TheatrePromotion\obj\Debug\net5.0\TheatrePromotion.dll
+C:\Users\Mishan\source\repos\BasicSyntaxLab\TheatrePromotion\obj\Debug\net5.0\ref\TheatrePromotion.dll
+C:\Users\Mishan\source\repos\BasicSyntaxLab\TheatrePromotion\obj\Debug\net5.0\TheatrePromotion.pdb
+C:\Users\Mishan\source\repos\BasicSyntaxLab\TheatrePromotion\obj\Debug\net5.0\TheatrePromotion.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Mishan\source\repos\ArraysExercise\FoldAndSum\bin\Debug\net5.0\FoldAndSum.exe
+C:\Users\Mishan\source\repos\ArraysExercise\FoldAndSum\bin\Debug\net5.0\FoldAndSum.deps.json
+C:\Users\Mishan\source\repos\ArraysExercise\FoldAndSum\bin\Debug\net5.0\FoldAndSum.runtimeconfig.json
+C:\Users\Mishan\source\repos\ArraysExercise\FoldAndSum\bin\Debug\net5.0\FoldAndSum.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\ArraysExercise\FoldAndSum\bin\Debug\net5.0\FoldAndSum.dll
+C:\Users\Mishan\source\repos\ArraysExercise\FoldAndSum\bin\Debug\net5.0\ref\FoldAndSum.dll
+C:\Users\Mishan\source\repos\ArraysExercise\FoldAndSum\bin\Debug\net5.0\FoldAndSum.pdb
+C:\Users\Mishan\source\repos\ArraysExercise\FoldAndSum\obj\Debug\net5.0\FoldAndSum.csproj.AssemblyReference.cache
+C:\Users\Mishan\source\repos\ArraysExercise\FoldAndSum\obj\Debug\net5.0\FoldAndSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\ArraysExercise\FoldAndSum\obj\Debug\net5.0\FoldAndSum.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\ArraysExercise\FoldAndSum\obj\Debug\net5.0\FoldAndSum.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\ArraysExercise\FoldAndSum\obj\Debug\net5.0\FoldAndSum.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\ArraysExercise\FoldAndSum\obj\Debug\net5.0\FoldAndSum.dll
+C:\Users\Mishan\source\repos\ArraysExercise\FoldAndSum\obj\Debug\net5.0\ref\FoldAndSum.dll
+C:\Users\Mishan\source\repos\ArraysExercise\FoldAndSum\obj\Debug\net5.0\FoldAndSum.pdb
+C:\Users\Mishan\source\repos\ArraysExercise\FoldAndSum\obj\Debug\net5.0\FoldAndSum.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Mishan\source\repos\ages\PadawnEquipment\bin\Debug\net5.0\PadawnEquipment.exe
+C:\Users\Mishan\source\repos\ages\PadawnEquipment\bin\Debug\net5.0\PadawnEquipment.deps.json
+C:\Users\Mishan\source\repos\ages\PadawnEquipment\bin\Debug\net5.0\PadawnEquipment.runtimeconfig.json
+C:\Users\Mishan\source\repos\ages\PadawnEquipment\bin\Debug\net5.0\PadawnEquipment.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\ages\PadawnEquipment\bin\Debug\net5.0\PadawnEquipment.dll
+C:\Users\Mishan\source\repos\ages\PadawnEquipment\bin\Debug\net5.0\ref\PadawnEquipment.dll
+C:\Users\Mishan\source\repos\ages\PadawnEquipment\bin\Debug\net5.0\PadawnEquipment.pdb
+C:\Users\Mishan\source\repos\ages\PadawnEquipment\obj\Debug\net5.0\PadawnEquipment.csproj.AssemblyReference.cache
+C:\Users\Mishan\source\repos\ages\PadawnEquipment\obj\Debug\net5.0\PadawnEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\ages\PadawnEquipment\obj\Debug\net5.0\PadawnEquipment.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\ages\PadawnEquipment\obj\Debug\net5.0\PadawnEquipment.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\ages\PadawnEquipment\obj\Debug\net5.0\PadawnEquipment.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\ages\PadawnEquipment\obj\Debug\net5.0\PadawnEquipment.dll
+C:\Users\Mishan\source\repos\ages\PadawnEquipment\obj\Debug\net5.0\ref\PadawnEquipment.dll
+C:\Users\Mishan\source\repos\ages\PadawnEquipment\obj\Debug\net5.0\PadawnEquipment.pdb
+C:\Users\Mishan\source\repos\ages\PadawnEquipment\obj\Debug\net5.0\PadawnEquipment.genruntimeconfig.cache

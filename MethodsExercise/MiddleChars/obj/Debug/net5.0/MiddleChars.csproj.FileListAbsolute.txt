@@ -1,0 +1,16 @@
+C:\Users\ANG\.dotnet\repos\MethodsExercise\MiddleChars\bin\Debug\net5.0\MiddleChars.exe
+C:\Users\ANG\.dotnet\repos\MethodsExercise\MiddleChars\bin\Debug\net5.0\MiddleChars.deps.json
+C:\Users\ANG\.dotnet\repos\MethodsExercise\MiddleChars\bin\Debug\net5.0\MiddleChars.runtimeconfig.json
+C:\Users\ANG\.dotnet\repos\MethodsExercise\MiddleChars\bin\Debug\net5.0\MiddleChars.runtimeconfig.dev.json
+C:\Users\ANG\.dotnet\repos\MethodsExercise\MiddleChars\bin\Debug\net5.0\MiddleChars.dll
+C:\Users\ANG\.dotnet\repos\MethodsExercise\MiddleChars\bin\Debug\net5.0\ref\MiddleChars.dll
+C:\Users\ANG\.dotnet\repos\MethodsExercise\MiddleChars\bin\Debug\net5.0\MiddleChars.pdb
+C:\Users\ANG\.dotnet\repos\MethodsExercise\MiddleChars\obj\Debug\net5.0\MiddleChars.csproj.AssemblyReference.cache
+C:\Users\ANG\.dotnet\repos\MethodsExercise\MiddleChars\obj\Debug\net5.0\MiddleChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANG\.dotnet\repos\MethodsExercise\MiddleChars\obj\Debug\net5.0\MiddleChars.AssemblyInfoInputs.cache
+C:\Users\ANG\.dotnet\repos\MethodsExercise\MiddleChars\obj\Debug\net5.0\MiddleChars.AssemblyInfo.cs
+C:\Users\ANG\.dotnet\repos\MethodsExercise\MiddleChars\obj\Debug\net5.0\MiddleChars.csproj.CoreCompileInputs.cache
+C:\Users\ANG\.dotnet\repos\MethodsExercise\MiddleChars\obj\Debug\net5.0\MiddleChars.dll
+C:\Users\ANG\.dotnet\repos\MethodsExercise\MiddleChars\obj\Debug\net5.0\ref\MiddleChars.dll
+C:\Users\ANG\.dotnet\repos\MethodsExercise\MiddleChars\obj\Debug\net5.0\MiddleChars.pdb
+C:\Users\ANG\.dotnet\repos\MethodsExercise\MiddleChars\obj\Debug\net5.0\MiddleChars.genruntimeconfig.cache

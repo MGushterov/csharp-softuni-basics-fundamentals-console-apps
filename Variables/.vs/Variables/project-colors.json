@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dc95ae77-bddd-4ef5-9777-302b06d06327": {
+      "ProjectGuid": "dc95ae77-bddd-4ef5-9777-302b06d06327",
+      "DisplayName": "MetersToKm",
+      "ColorIndex": 0
+    },
+    "dd69d8a3-d58c-4073-a41d-482080d3bb63": {
+      "ProjectGuid": "dd69d8a3-d58c-4073-a41d-482080d3bb63",
+      "DisplayName": "PoundsToDollars",
+      "ColorIndex": 1
+    },
+    "3d8bad1c-fb31-4770-8076-e2144f1ad606": {
+      "ProjectGuid": "3d8bad1c-fb31-4770-8076-e2144f1ad606",
+      "DisplayName": "SumOfRealNums",
+      "ColorIndex": 2
+    },
+    "c3438e96-afd8-4725-bbcb-b5078456caea": {
+      "ProjectGuid": "c3438e96-afd8-4725-bbcb-b5078456caea",
+      "DisplayName": "CenToMin",
+      "ColorIndex": 3
+    },
+    "bb67cdf2-0bc3-4bb8-b7e5-db01f4139f05": {
+      "ProjectGuid": "bb67cdf2-0bc3-4bb8-b7e5-db01f4139f05",
+      "DisplayName": "SpecialNums",
+      "ColorIndex": 4
+    },
+    "ca7f1827-e831-42f4-b616-1680f6c7c4fe": {
+      "ProjectGuid": "ca7f1827-e831-42f4-b616-1680f6c7c4fe",
+      "DisplayName": "ReversedChars",
+      "ColorIndex": 5
+    },
+    "45f3d0bf-2e20-4bd6-9da0-8aca0ac3dab6": {
+      "ProjectGuid": "45f3d0bf-2e20-4bd6-9da0-8aca0ac3dab6",
+      "DisplayName": "ConcatNames",
+      "ColorIndex": 6
+    },
+    "24435f48-00cf-4505-ac2a-92869d0339c2": {
+      "ProjectGuid": "24435f48-00cf-4505-ac2a-92869d0339c2",
+      "DisplayName": "TownInfo",
+      "ColorIndex": 7
+    },
+    "d6285d03-4626-4128-982a-de1f32238527": {
+      "ProjectGuid": "d6285d03-4626-4128-982a-de1f32238527",
+      "DisplayName": "CharsToString",
+      "ColorIndex": 8
+    },
+    "99e15653-9860-4fec-8a36-675813380328": {
+      "ProjectGuid": "99e15653-9860-4fec-8a36-675813380328",
+      "DisplayName": "LowerOrUpper",
+      "ColorIndex": 9
+    },
+    "5a79e6fa-a998-4743-8fbc-3159fe663582": {
+      "ProjectGuid": "5a79e6fa-a998-4743-8fbc-3159fe663582",
+      "DisplayName": "Pyramid",
+      "ColorIndex": 10
+    },
+    "bc88008f-4415-4b23-b720-7d67c613f85f": {
+      "ProjectGuid": "bc88008f-4415-4b23-b720-7d67c613f85f",
+      "DisplayName": "Refractor",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "97cd00b5-4161-4775-b915-32e0d5adecb7": {
+      "ProjectGuid": "97cd00b5-4161-4775-b915-32e0d5adecb7",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 0
+    },
+    "d5da6808-3d40-43e8-bd72-c5798a164cb2": {
+      "ProjectGuid": "d5da6808-3d40-43e8-bd72-c5798a164cb2",
+      "DisplayName": "Division",
+      "ColorIndex": 1
+    },
+    "fd03e16b-acf7-4739-a191-52e31029c63a": {
+      "ProjectGuid": "fd03e16b-acf7-4739-a191-52e31029c63a",
+      "DisplayName": "Vacation",
+      "ColorIndex": 2
+    },
+    "ad42c1b4-f046-4c75-8e23-3575f373d9fa": {
+      "ProjectGuid": "ad42c1b4-f046-4c75-8e23-3575f373d9fa",
+      "DisplayName": "AddSum",
+      "ColorIndex": 3
+    },
+    "0738b0db-86b7-4f54-92e7-c198ee047994": {
+      "ProjectGuid": "0738b0db-86b7-4f54-92e7-c198ee047994",
+      "DisplayName": "Login",
+      "ColorIndex": 4
+    },
+    "7271f55a-bbdd-4f19-8292-82c417823d98": {
+      "ProjectGuid": "7271f55a-bbdd-4f19-8292-82c417823d98",
+      "DisplayName": "StrongNumber",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "13d1558e-78b1-450b-9473-45c3507adf36": {
+      "ProjectGuid": "13d1558e-78b1-450b-9473-45c3507adf36",
+      "DisplayName": "VendingMachine",
+      "ColorIndex": 6
+    },
+    "b3b8f7a0-336e-4590-a8f1-8cdf6c32ae56": {
+      "ProjectGuid": "b3b8f7a0-336e-4590-a8f1-8cdf6c32ae56",
+      "DisplayName": "numTriangle",
+      "ColorIndex": 7
+    },
+    "0ed6b609-c81f-4d12-8f3f-df2d16de085a": {
+      "ProjectGuid": "0ed6b609-c81f-4d12-8f3f-df2d16de085a",
+      "DisplayName": "PadawnEquipment",
+      "ColorIndex": 8
+    },
+    "347b4994-50e3-4bbb-90cd-c4a09a007b81": {
+      "ProjectGuid": "347b4994-50e3-4bbb-90cd-c4a09a007b81",
+      "DisplayName": "RageExpenses",
+      "ColorIndex": 9
+    },
+    "e3cacd70-8ec7-48cc-aa34-ebb95116610c": {
+      "ProjectGuid": "e3cacd70-8ec7-48cc-aa34-ebb95116610c",
+      "DisplayName": "Orders",
+      "ColorIndex": 10
+    },
+    "23a513d0-99c4-4b12-83f3-e521920f7e09": {
+      "ProjectGuid": "23a513d0-99c4-4b12-83f3-e521920f7e09",
+      "DisplayName": "SortNums",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

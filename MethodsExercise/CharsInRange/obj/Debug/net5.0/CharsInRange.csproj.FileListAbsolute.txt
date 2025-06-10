@@ -1,0 +1,16 @@
+C:\Users\Mishan\source\repos\MethodsExercise\CharsInRange\bin\Debug\net5.0\CharsInRange.exe
+C:\Users\Mishan\source\repos\MethodsExercise\CharsInRange\bin\Debug\net5.0\CharsInRange.deps.json
+C:\Users\Mishan\source\repos\MethodsExercise\CharsInRange\bin\Debug\net5.0\CharsInRange.runtimeconfig.json
+C:\Users\Mishan\source\repos\MethodsExercise\CharsInRange\bin\Debug\net5.0\CharsInRange.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\MethodsExercise\CharsInRange\bin\Debug\net5.0\CharsInRange.dll
+C:\Users\Mishan\source\repos\MethodsExercise\CharsInRange\bin\Debug\net5.0\ref\CharsInRange.dll
+C:\Users\Mishan\source\repos\MethodsExercise\CharsInRange\bin\Debug\net5.0\CharsInRange.pdb
+C:\Users\Mishan\source\repos\MethodsExercise\CharsInRange\obj\Debug\net5.0\CharsInRange.csproj.AssemblyReference.cache
+C:\Users\Mishan\source\repos\MethodsExercise\CharsInRange\obj\Debug\net5.0\CharsInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\MethodsExercise\CharsInRange\obj\Debug\net5.0\CharsInRange.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\MethodsExercise\CharsInRange\obj\Debug\net5.0\CharsInRange.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\MethodsExercise\CharsInRange\obj\Debug\net5.0\CharsInRange.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\MethodsExercise\CharsInRange\obj\Debug\net5.0\CharsInRange.dll
+C:\Users\Mishan\source\repos\MethodsExercise\CharsInRange\obj\Debug\net5.0\ref\CharsInRange.dll
+C:\Users\Mishan\source\repos\MethodsExercise\CharsInRange\obj\Debug\net5.0\CharsInRange.pdb
+C:\Users\Mishan\source\repos\MethodsExercise\CharsInRange\obj\Debug\net5.0\CharsInRange.genruntimeconfig.cache

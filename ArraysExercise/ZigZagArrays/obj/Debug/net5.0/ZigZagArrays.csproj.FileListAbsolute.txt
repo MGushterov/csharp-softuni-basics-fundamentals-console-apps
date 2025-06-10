@@ -1,0 +1,16 @@
+C:\Users\Mishan\source\repos\ArraysExercise\ZigZagArrays\bin\Debug\net5.0\ZigZagArrays.exe
+C:\Users\Mishan\source\repos\ArraysExercise\ZigZagArrays\bin\Debug\net5.0\ZigZagArrays.deps.json
+C:\Users\Mishan\source\repos\ArraysExercise\ZigZagArrays\bin\Debug\net5.0\ZigZagArrays.runtimeconfig.json
+C:\Users\Mishan\source\repos\ArraysExercise\ZigZagArrays\bin\Debug\net5.0\ZigZagArrays.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\ArraysExercise\ZigZagArrays\bin\Debug\net5.0\ZigZagArrays.dll
+C:\Users\Mishan\source\repos\ArraysExercise\ZigZagArrays\bin\Debug\net5.0\ref\ZigZagArrays.dll
+C:\Users\Mishan\source\repos\ArraysExercise\ZigZagArrays\bin\Debug\net5.0\ZigZagArrays.pdb
+C:\Users\Mishan\source\repos\ArraysExercise\ZigZagArrays\obj\Debug\net5.0\ZigZagArrays.csproj.AssemblyReference.cache
+C:\Users\Mishan\source\repos\ArraysExercise\ZigZagArrays\obj\Debug\net5.0\ZigZagArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\ArraysExercise\ZigZagArrays\obj\Debug\net5.0\ZigZagArrays.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\ArraysExercise\ZigZagArrays\obj\Debug\net5.0\ZigZagArrays.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\ArraysExercise\ZigZagArrays\obj\Debug\net5.0\ZigZagArrays.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\ArraysExercise\ZigZagArrays\obj\Debug\net5.0\ZigZagArrays.dll
+C:\Users\Mishan\source\repos\ArraysExercise\ZigZagArrays\obj\Debug\net5.0\ref\ZigZagArrays.dll
+C:\Users\Mishan\source\repos\ArraysExercise\ZigZagArrays\obj\Debug\net5.0\ZigZagArrays.pdb
+C:\Users\Mishan\source\repos\ArraysExercise\ZigZagArrays\obj\Debug\net5.0\ZigZagArrays.genruntimeconfig.cache

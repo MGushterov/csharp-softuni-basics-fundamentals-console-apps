@@ -1,0 +1,15 @@
+C:\Users\Mishan\source\repos\BasicSyntaxLab\EvenNumber\bin\Debug\net5.0\EvenNumber.exe
+C:\Users\Mishan\source\repos\BasicSyntaxLab\EvenNumber\bin\Debug\net5.0\EvenNumber.deps.json
+C:\Users\Mishan\source\repos\BasicSyntaxLab\EvenNumber\bin\Debug\net5.0\EvenNumber.runtimeconfig.json
+C:\Users\Mishan\source\repos\BasicSyntaxLab\EvenNumber\bin\Debug\net5.0\EvenNumber.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\BasicSyntaxLab\EvenNumber\bin\Debug\net5.0\EvenNumber.dll
+C:\Users\Mishan\source\repos\BasicSyntaxLab\EvenNumber\bin\Debug\net5.0\ref\EvenNumber.dll
+C:\Users\Mishan\source\repos\BasicSyntaxLab\EvenNumber\bin\Debug\net5.0\EvenNumber.pdb
+C:\Users\Mishan\source\repos\BasicSyntaxLab\EvenNumber\obj\Debug\net5.0\EvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\BasicSyntaxLab\EvenNumber\obj\Debug\net5.0\EvenNumber.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\BasicSyntaxLab\EvenNumber\obj\Debug\net5.0\EvenNumber.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\BasicSyntaxLab\EvenNumber\obj\Debug\net5.0\EvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\BasicSyntaxLab\EvenNumber\obj\Debug\net5.0\EvenNumber.dll
+C:\Users\Mishan\source\repos\BasicSyntaxLab\EvenNumber\obj\Debug\net5.0\ref\EvenNumber.dll
+C:\Users\Mishan\source\repos\BasicSyntaxLab\EvenNumber\obj\Debug\net5.0\EvenNumber.pdb
+C:\Users\Mishan\source\repos\BasicSyntaxLab\EvenNumber\obj\Debug\net5.0\EvenNumber.genruntimeconfig.cache

@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c03d2e92-bd9d-4b55-babf-315ce40090ea": {
+      "ProjectGuid": "c03d2e92-bd9d-4b55-babf-315ce40090ea",
+      "DisplayName": "DayOfWeek",
+      "ColorIndex": 0
+    },
+    "326a3dec-fb28-4b05-9be4-2aa7e41e8fa4": {
+      "ProjectGuid": "326a3dec-fb28-4b05-9be4-2aa7e41e8fa4",
+      "DisplayName": "NumsInReverseOrder",
+      "ColorIndex": 1
+    },
+    "3951d0a4-0fae-45a4-bd1b-bb2a1d9b6508": {
+      "ProjectGuid": "3951d0a4-0fae-45a4-bd1b-bb2a1d9b6508",
+      "DisplayName": "RoundNums",
+      "ColorIndex": 2
+    },
+    "f7c360a8-dae3-4503-9493-15890368ec35": {
+      "ProjectGuid": "f7c360a8-dae3-4503-9493-15890368ec35",
+      "DisplayName": "ReversedStrings",
+      "ColorIndex": 3
+    },
+    "a06fd92e-ea97-492b-964d-ba1e4bda635e": {
+      "ProjectGuid": "a06fd92e-ea97-492b-964d-ba1e4bda635e",
+      "DisplayName": "EvenSum",
+      "ColorIndex": 4
+    },
+    "e849a0cb-ca77-4fcf-9e4a-82f6c1936dfd": {
+      "ProjectGuid": "e849a0cb-ca77-4fcf-9e4a-82f6c1936dfd",
+      "DisplayName": "EvenAndOddSubtraction",
+      "ColorIndex": 5
+    },
+    "c2d83a5b-baa6-40da-ab0b-40f8d8447ea6": {
+      "ProjectGuid": "c2d83a5b-baa6-40da-ab0b-40f8d8447ea6",
+      "DisplayName": "EqualArrays",
+      "ColorIndex": 6
+    },
+    "d7b81c66-6dff-490c-b93f-40b50a11c534": {
+      "ProjectGuid": "d7b81c66-6dff-490c-b93f-40b50a11c534",
+      "DisplayName": "CondenseArrayToNums",
+      "ColorIndex": 7
+    },
+    "4551fff2-5d51-4ade-9e8c-9a06e323cb4d": {
+      "ProjectGuid": "4551fff2-5d51-4ade-9e8c-9a06e323cb4d",
+      "DisplayName": "ArrNum",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

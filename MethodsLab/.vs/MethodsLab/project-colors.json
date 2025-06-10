@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7a8b9059-bf6e-40a1-a092-dfed2010a1f8": {
+      "ProjectGuid": "7a8b9059-bf6e-40a1-a092-dfed2010a1f8",
+      "DisplayName": "DeclaringAndInvoking",
+      "ColorIndex": 0
+    },
+    "138b6cbe-bdfc-466a-a3e2-3223ab465337": {
+      "ProjectGuid": "138b6cbe-bdfc-466a-a3e2-3223ab465337",
+      "DisplayName": "Grades",
+      "ColorIndex": 1
+    },
+    "714967fa-ba82-489e-8f3d-369913fd87e0": {
+      "ProjectGuid": "714967fa-ba82-489e-8f3d-369913fd87e0",
+      "DisplayName": "Calculations",
+      "ColorIndex": 2
+    },
+    "e076a381-ea23-484f-8fef-5bf88374c36c": {
+      "ProjectGuid": "e076a381-ea23-484f-8fef-5bf88374c36c",
+      "DisplayName": "PrintingTriangle",
+      "ColorIndex": 3
+    },
+    "7ba0dd9c-7816-4001-bf75-58119ebd16ac": {
+      "ProjectGuid": "7ba0dd9c-7816-4001-bf75-58119ebd16ac",
+      "DisplayName": "Orders",
+      "ColorIndex": 4
+    },
+    "8bc5531f-1668-496d-b7fa-5c17a81199e7": {
+      "ProjectGuid": "8bc5531f-1668-496d-b7fa-5c17a81199e7",
+      "DisplayName": "CalculateRectangleArea",
+      "ColorIndex": 5
+    },
+    "54008b6d-4eda-4e3f-985b-78e58d099ba2": {
+      "ProjectGuid": "54008b6d-4eda-4e3f-985b-78e58d099ba2",
+      "DisplayName": "RepeatString",
+      "ColorIndex": 6
+    },
+    "ebbdd777-eeb3-43c5-97c6-af0a7acf0144": {
+      "ProjectGuid": "ebbdd777-eeb3-43c5-97c6-af0a7acf0144",
+      "DisplayName": "MathPower",
+      "ColorIndex": 7
+    },
+    "7da7a425-9804-4de6-a26f-d2b086d34f99": {
+      "ProjectGuid": "7da7a425-9804-4de6-a26f-d2b086d34f99",
+      "DisplayName": "GreaterOfTwoValues",
+      "ColorIndex": 8
+    },
+    "2818729b-b474-4587-81a0-7a2f6d4d3340": {
+      "ProjectGuid": "2818729b-b474-4587-81a0-7a2f6d4d3340",
+      "DisplayName": "MultiplyEvensByOdds",
+      "ColorIndex": 9
+    },
+    "98ad62bb-2071-4c89-b7d6-f657b9d21976": {
+      "ProjectGuid": "98ad62bb-2071-4c89-b7d6-f657b9d21976",
+      "DisplayName": "MathOperations",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

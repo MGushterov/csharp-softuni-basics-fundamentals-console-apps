@@ -1,0 +1,15 @@
+C:\Users\Mishan\source\repos\ArraysLab\ArrNum\bin\Debug\net5.0\ArrNum.exe
+C:\Users\Mishan\source\repos\ArraysLab\ArrNum\bin\Debug\net5.0\ArrNum.deps.json
+C:\Users\Mishan\source\repos\ArraysLab\ArrNum\bin\Debug\net5.0\ArrNum.runtimeconfig.json
+C:\Users\Mishan\source\repos\ArraysLab\ArrNum\bin\Debug\net5.0\ArrNum.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\ArraysLab\ArrNum\bin\Debug\net5.0\ArrNum.dll
+C:\Users\Mishan\source\repos\ArraysLab\ArrNum\bin\Debug\net5.0\ref\ArrNum.dll
+C:\Users\Mishan\source\repos\ArraysLab\ArrNum\bin\Debug\net5.0\ArrNum.pdb
+C:\Users\Mishan\source\repos\ArraysLab\ArrNum\obj\Debug\net5.0\ArrNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\ArraysLab\ArrNum\obj\Debug\net5.0\ArrNum.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\ArraysLab\ArrNum\obj\Debug\net5.0\ArrNum.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\ArraysLab\ArrNum\obj\Debug\net5.0\ArrNum.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\ArraysLab\ArrNum\obj\Debug\net5.0\ArrNum.dll
+C:\Users\Mishan\source\repos\ArraysLab\ArrNum\obj\Debug\net5.0\ref\ArrNum.dll
+C:\Users\Mishan\source\repos\ArraysLab\ArrNum\obj\Debug\net5.0\ArrNum.pdb
+C:\Users\Mishan\source\repos\ArraysLab\ArrNum\obj\Debug\net5.0\ArrNum.genruntimeconfig.cache

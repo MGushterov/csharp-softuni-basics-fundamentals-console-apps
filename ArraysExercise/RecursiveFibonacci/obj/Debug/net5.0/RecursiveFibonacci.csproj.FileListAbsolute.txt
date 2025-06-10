@@ -1,0 +1,16 @@
+C:\Users\Mishan\source\repos\ArraysExercise\RecursiveFibonacci\bin\Debug\net5.0\RecursiveFibonacci.exe
+C:\Users\Mishan\source\repos\ArraysExercise\RecursiveFibonacci\bin\Debug\net5.0\RecursiveFibonacci.deps.json
+C:\Users\Mishan\source\repos\ArraysExercise\RecursiveFibonacci\bin\Debug\net5.0\RecursiveFibonacci.runtimeconfig.json
+C:\Users\Mishan\source\repos\ArraysExercise\RecursiveFibonacci\bin\Debug\net5.0\RecursiveFibonacci.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\ArraysExercise\RecursiveFibonacci\bin\Debug\net5.0\RecursiveFibonacci.dll
+C:\Users\Mishan\source\repos\ArraysExercise\RecursiveFibonacci\bin\Debug\net5.0\ref\RecursiveFibonacci.dll
+C:\Users\Mishan\source\repos\ArraysExercise\RecursiveFibonacci\bin\Debug\net5.0\RecursiveFibonacci.pdb
+C:\Users\Mishan\source\repos\ArraysExercise\RecursiveFibonacci\obj\Debug\net5.0\RecursiveFibonacci.csproj.AssemblyReference.cache
+C:\Users\Mishan\source\repos\ArraysExercise\RecursiveFibonacci\obj\Debug\net5.0\RecursiveFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\ArraysExercise\RecursiveFibonacci\obj\Debug\net5.0\RecursiveFibonacci.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\ArraysExercise\RecursiveFibonacci\obj\Debug\net5.0\RecursiveFibonacci.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\ArraysExercise\RecursiveFibonacci\obj\Debug\net5.0\RecursiveFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\ArraysExercise\RecursiveFibonacci\obj\Debug\net5.0\RecursiveFibonacci.dll
+C:\Users\Mishan\source\repos\ArraysExercise\RecursiveFibonacci\obj\Debug\net5.0\ref\RecursiveFibonacci.dll
+C:\Users\Mishan\source\repos\ArraysExercise\RecursiveFibonacci\obj\Debug\net5.0\RecursiveFibonacci.pdb
+C:\Users\Mishan\source\repos\ArraysExercise\RecursiveFibonacci\obj\Debug\net5.0\RecursiveFibonacci.genruntimeconfig.cache

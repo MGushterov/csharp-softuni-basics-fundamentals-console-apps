@@ -1,0 +1,15 @@
+C:\Users\Mishan\source\repos\ages\numTriangle\bin\Debug\net5.0\numTriangle.exe
+C:\Users\Mishan\source\repos\ages\numTriangle\bin\Debug\net5.0\numTriangle.deps.json
+C:\Users\Mishan\source\repos\ages\numTriangle\bin\Debug\net5.0\numTriangle.runtimeconfig.json
+C:\Users\Mishan\source\repos\ages\numTriangle\bin\Debug\net5.0\numTriangle.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\ages\numTriangle\bin\Debug\net5.0\numTriangle.dll
+C:\Users\Mishan\source\repos\ages\numTriangle\bin\Debug\net5.0\ref\numTriangle.dll
+C:\Users\Mishan\source\repos\ages\numTriangle\bin\Debug\net5.0\numTriangle.pdb
+C:\Users\Mishan\source\repos\ages\numTriangle\obj\Debug\net5.0\numTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\ages\numTriangle\obj\Debug\net5.0\numTriangle.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\ages\numTriangle\obj\Debug\net5.0\numTriangle.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\ages\numTriangle\obj\Debug\net5.0\numTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\ages\numTriangle\obj\Debug\net5.0\numTriangle.dll
+C:\Users\Mishan\source\repos\ages\numTriangle\obj\Debug\net5.0\ref\numTriangle.dll
+C:\Users\Mishan\source\repos\ages\numTriangle\obj\Debug\net5.0\numTriangle.pdb
+C:\Users\Mishan\source\repos\ages\numTriangle\obj\Debug\net5.0\numTriangle.genruntimeconfig.cache

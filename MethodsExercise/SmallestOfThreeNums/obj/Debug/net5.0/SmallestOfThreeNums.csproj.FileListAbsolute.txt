@@ -1,0 +1,16 @@
+C:\Users\Mishan\source\repos\MethodsExercise\SmallestOfThreeNums\bin\Debug\net5.0\SmallestOfThreeNums.exe
+C:\Users\Mishan\source\repos\MethodsExercise\SmallestOfThreeNums\bin\Debug\net5.0\SmallestOfThreeNums.deps.json
+C:\Users\Mishan\source\repos\MethodsExercise\SmallestOfThreeNums\bin\Debug\net5.0\SmallestOfThreeNums.runtimeconfig.json
+C:\Users\Mishan\source\repos\MethodsExercise\SmallestOfThreeNums\bin\Debug\net5.0\SmallestOfThreeNums.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\MethodsExercise\SmallestOfThreeNums\bin\Debug\net5.0\SmallestOfThreeNums.dll
+C:\Users\Mishan\source\repos\MethodsExercise\SmallestOfThreeNums\bin\Debug\net5.0\ref\SmallestOfThreeNums.dll
+C:\Users\Mishan\source\repos\MethodsExercise\SmallestOfThreeNums\bin\Debug\net5.0\SmallestOfThreeNums.pdb
+C:\Users\Mishan\source\repos\MethodsExercise\SmallestOfThreeNums\obj\Debug\net5.0\SmallestOfThreeNums.csproj.AssemblyReference.cache
+C:\Users\Mishan\source\repos\MethodsExercise\SmallestOfThreeNums\obj\Debug\net5.0\SmallestOfThreeNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\MethodsExercise\SmallestOfThreeNums\obj\Debug\net5.0\SmallestOfThreeNums.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\MethodsExercise\SmallestOfThreeNums\obj\Debug\net5.0\SmallestOfThreeNums.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\MethodsExercise\SmallestOfThreeNums\obj\Debug\net5.0\SmallestOfThreeNums.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\MethodsExercise\SmallestOfThreeNums\obj\Debug\net5.0\SmallestOfThreeNums.dll
+C:\Users\Mishan\source\repos\MethodsExercise\SmallestOfThreeNums\obj\Debug\net5.0\ref\SmallestOfThreeNums.dll
+C:\Users\Mishan\source\repos\MethodsExercise\SmallestOfThreeNums\obj\Debug\net5.0\SmallestOfThreeNums.pdb
+C:\Users\Mishan\source\repos\MethodsExercise\SmallestOfThreeNums\obj\Debug\net5.0\SmallestOfThreeNums.genruntimeconfig.cache

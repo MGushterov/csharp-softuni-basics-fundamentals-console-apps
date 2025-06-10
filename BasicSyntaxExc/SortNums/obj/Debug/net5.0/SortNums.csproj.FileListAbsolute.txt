@@ -1,0 +1,16 @@
+C:\Users\Mishan\source\repos\BasicSyntaxExc\SortNums\bin\Debug\net5.0\SortNums.exe
+C:\Users\Mishan\source\repos\BasicSyntaxExc\SortNums\bin\Debug\net5.0\SortNums.deps.json
+C:\Users\Mishan\source\repos\BasicSyntaxExc\SortNums\bin\Debug\net5.0\SortNums.runtimeconfig.json
+C:\Users\Mishan\source\repos\BasicSyntaxExc\SortNums\bin\Debug\net5.0\SortNums.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\BasicSyntaxExc\SortNums\bin\Debug\net5.0\SortNums.dll
+C:\Users\Mishan\source\repos\BasicSyntaxExc\SortNums\bin\Debug\net5.0\ref\SortNums.dll
+C:\Users\Mishan\source\repos\BasicSyntaxExc\SortNums\bin\Debug\net5.0\SortNums.pdb
+C:\Users\Mishan\source\repos\BasicSyntaxExc\SortNums\obj\Debug\net5.0\SortNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\BasicSyntaxExc\SortNums\obj\Debug\net5.0\SortNums.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\BasicSyntaxExc\SortNums\obj\Debug\net5.0\SortNums.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\BasicSyntaxExc\SortNums\obj\Debug\net5.0\SortNums.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\BasicSyntaxExc\SortNums\obj\Debug\net5.0\SortNums.dll
+C:\Users\Mishan\source\repos\BasicSyntaxExc\SortNums\obj\Debug\net5.0\ref\SortNums.dll
+C:\Users\Mishan\source\repos\BasicSyntaxExc\SortNums\obj\Debug\net5.0\SortNums.pdb
+C:\Users\Mishan\source\repos\BasicSyntaxExc\SortNums\obj\Debug\net5.0\SortNums.genruntimeconfig.cache
+C:\Users\Mishan\source\repos\BasicSyntaxExc\SortNums\obj\Debug\net5.0\SortNums.csproj.AssemblyReference.cache

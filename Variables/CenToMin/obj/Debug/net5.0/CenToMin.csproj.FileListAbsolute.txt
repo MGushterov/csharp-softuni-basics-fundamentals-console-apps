@@ -1,0 +1,15 @@
+C:\Users\Mishan\source\repos\Variables\CenToMin\bin\Debug\net5.0\CenToMin.exe
+C:\Users\Mishan\source\repos\Variables\CenToMin\bin\Debug\net5.0\CenToMin.deps.json
+C:\Users\Mishan\source\repos\Variables\CenToMin\bin\Debug\net5.0\CenToMin.runtimeconfig.json
+C:\Users\Mishan\source\repos\Variables\CenToMin\bin\Debug\net5.0\CenToMin.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\Variables\CenToMin\bin\Debug\net5.0\CenToMin.dll
+C:\Users\Mishan\source\repos\Variables\CenToMin\bin\Debug\net5.0\ref\CenToMin.dll
+C:\Users\Mishan\source\repos\Variables\CenToMin\bin\Debug\net5.0\CenToMin.pdb
+C:\Users\Mishan\source\repos\Variables\CenToMin\obj\Debug\net5.0\CenToMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\Variables\CenToMin\obj\Debug\net5.0\CenToMin.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\Variables\CenToMin\obj\Debug\net5.0\CenToMin.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\Variables\CenToMin\obj\Debug\net5.0\CenToMin.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\Variables\CenToMin\obj\Debug\net5.0\CenToMin.dll
+C:\Users\Mishan\source\repos\Variables\CenToMin\obj\Debug\net5.0\ref\CenToMin.dll
+C:\Users\Mishan\source\repos\Variables\CenToMin\obj\Debug\net5.0\CenToMin.pdb
+C:\Users\Mishan\source\repos\Variables\CenToMin\obj\Debug\net5.0\CenToMin.genruntimeconfig.cache

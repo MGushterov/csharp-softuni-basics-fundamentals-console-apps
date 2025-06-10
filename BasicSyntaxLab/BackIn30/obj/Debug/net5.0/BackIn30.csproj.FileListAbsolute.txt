@@ -1,0 +1,16 @@
+C:\Users\Mishan\source\repos\BasicSyntaxLab\BackIn30\bin\Debug\net5.0\BackIn30.exe
+C:\Users\Mishan\source\repos\BasicSyntaxLab\BackIn30\bin\Debug\net5.0\BackIn30.deps.json
+C:\Users\Mishan\source\repos\BasicSyntaxLab\BackIn30\bin\Debug\net5.0\BackIn30.runtimeconfig.json
+C:\Users\Mishan\source\repos\BasicSyntaxLab\BackIn30\bin\Debug\net5.0\BackIn30.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\BasicSyntaxLab\BackIn30\bin\Debug\net5.0\BackIn30.dll
+C:\Users\Mishan\source\repos\BasicSyntaxLab\BackIn30\bin\Debug\net5.0\ref\BackIn30.dll
+C:\Users\Mishan\source\repos\BasicSyntaxLab\BackIn30\bin\Debug\net5.0\BackIn30.pdb
+C:\Users\Mishan\source\repos\BasicSyntaxLab\BackIn30\obj\Debug\net5.0\BackIn30.csproj.AssemblyReference.cache
+C:\Users\Mishan\source\repos\BasicSyntaxLab\BackIn30\obj\Debug\net5.0\BackIn30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\BasicSyntaxLab\BackIn30\obj\Debug\net5.0\BackIn30.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\BasicSyntaxLab\BackIn30\obj\Debug\net5.0\BackIn30.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\BasicSyntaxLab\BackIn30\obj\Debug\net5.0\BackIn30.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\BasicSyntaxLab\BackIn30\obj\Debug\net5.0\BackIn30.dll
+C:\Users\Mishan\source\repos\BasicSyntaxLab\BackIn30\obj\Debug\net5.0\ref\BackIn30.dll
+C:\Users\Mishan\source\repos\BasicSyntaxLab\BackIn30\obj\Debug\net5.0\BackIn30.pdb
+C:\Users\Mishan\source\repos\BasicSyntaxLab\BackIn30\obj\Debug\net5.0\BackIn30.genruntimeconfig.cache

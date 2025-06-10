@@ -1,0 +1,15 @@
+C:\Users\Mishan\source\repos\ArraysLab\CondenseArrayToNums\bin\Debug\net5.0\CondenseArrayToNums.exe
+C:\Users\Mishan\source\repos\ArraysLab\CondenseArrayToNums\bin\Debug\net5.0\CondenseArrayToNums.deps.json
+C:\Users\Mishan\source\repos\ArraysLab\CondenseArrayToNums\bin\Debug\net5.0\CondenseArrayToNums.runtimeconfig.json
+C:\Users\Mishan\source\repos\ArraysLab\CondenseArrayToNums\bin\Debug\net5.0\CondenseArrayToNums.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\ArraysLab\CondenseArrayToNums\bin\Debug\net5.0\CondenseArrayToNums.dll
+C:\Users\Mishan\source\repos\ArraysLab\CondenseArrayToNums\bin\Debug\net5.0\ref\CondenseArrayToNums.dll
+C:\Users\Mishan\source\repos\ArraysLab\CondenseArrayToNums\bin\Debug\net5.0\CondenseArrayToNums.pdb
+C:\Users\Mishan\source\repos\ArraysLab\CondenseArrayToNums\obj\Debug\net5.0\CondenseArrayToNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\ArraysLab\CondenseArrayToNums\obj\Debug\net5.0\CondenseArrayToNums.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\ArraysLab\CondenseArrayToNums\obj\Debug\net5.0\CondenseArrayToNums.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\ArraysLab\CondenseArrayToNums\obj\Debug\net5.0\CondenseArrayToNums.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\ArraysLab\CondenseArrayToNums\obj\Debug\net5.0\CondenseArrayToNums.dll
+C:\Users\Mishan\source\repos\ArraysLab\CondenseArrayToNums\obj\Debug\net5.0\ref\CondenseArrayToNums.dll
+C:\Users\Mishan\source\repos\ArraysLab\CondenseArrayToNums\obj\Debug\net5.0\CondenseArrayToNums.pdb
+C:\Users\Mishan\source\repos\ArraysLab\CondenseArrayToNums\obj\Debug\net5.0\CondenseArrayToNums.genruntimeconfig.cache

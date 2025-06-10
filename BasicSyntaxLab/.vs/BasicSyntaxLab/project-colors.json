@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2978a837-7766-4f77-8aee-6d76b1ece049": {
+      "ProjectGuid": "2978a837-7766-4f77-8aee-6d76b1ece049",
+      "DisplayName": "StudentInfo",
+      "ColorIndex": 0
+    },
+    "7383340b-318f-4aa7-8ec6-47d3cc0d7202": {
+      "ProjectGuid": "7383340b-318f-4aa7-8ec6-47d3cc0d7202",
+      "DisplayName": "BackIn30",
+      "ColorIndex": 1
+    },
+    "bd65d9c8-fa58-48c7-8b27-22d7b4c0389e": {
+      "ProjectGuid": "bd65d9c8-fa58-48c7-8b27-22d7b4c0389e",
+      "DisplayName": "MonthPrinter",
+      "ColorIndex": 2
+    },
+    "31c8e16c-c30a-4822-b673-921eebee2ecb": {
+      "ProjectGuid": "31c8e16c-c30a-4822-b673-921eebee2ecb",
+      "DisplayName": "ForeignLanguges",
+      "ColorIndex": 3
+    },
+    "a60515e0-b89a-4cf5-83e0-15387c00a9e7": {
+      "ProjectGuid": "a60515e0-b89a-4cf5-83e0-15387c00a9e7",
+      "DisplayName": "TheatrePromotion",
+      "ColorIndex": 4
+    },
+    "4f8e9370-ab15-4860-8d11-faeadf3c2982": {
+      "ProjectGuid": "4f8e9370-ab15-4860-8d11-faeadf3c2982",
+      "DisplayName": "DivisibleBy3",
+      "ColorIndex": 5
+    },
+    "341380c1-8870-40e6-83d1-7f5806dcf48c": {
+      "ProjectGuid": "341380c1-8870-40e6-83d1-7f5806dcf48c",
+      "DisplayName": "SumOfOddNums",
+      "ColorIndex": 6
+    },
+    "b8166ef2-94a7-4ea7-84ad-db1cd6716c07": {
+      "ProjectGuid": "b8166ef2-94a7-4ea7-84ad-db1cd6716c07",
+      "DisplayName": "MultiplicationTable",
+      "ColorIndex": 7
+    },
+    "2f8c60f0-1273-4f47-9f7b-72c0fdbe3018": {
+      "ProjectGuid": "2f8c60f0-1273-4f47-9f7b-72c0fdbe3018",
+      "DisplayName": "EvenNumber",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

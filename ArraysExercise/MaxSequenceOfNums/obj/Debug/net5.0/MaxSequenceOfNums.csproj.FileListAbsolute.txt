@@ -1,0 +1,16 @@
+C:\Users\Mishan\source\repos\ArraysExercise\MaxSequenceOfNums\bin\Debug\net5.0\MaxSequenceOfNums.exe
+C:\Users\Mishan\source\repos\ArraysExercise\MaxSequenceOfNums\bin\Debug\net5.0\MaxSequenceOfNums.deps.json
+C:\Users\Mishan\source\repos\ArraysExercise\MaxSequenceOfNums\bin\Debug\net5.0\MaxSequenceOfNums.runtimeconfig.json
+C:\Users\Mishan\source\repos\ArraysExercise\MaxSequenceOfNums\bin\Debug\net5.0\MaxSequenceOfNums.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\ArraysExercise\MaxSequenceOfNums\bin\Debug\net5.0\MaxSequenceOfNums.dll
+C:\Users\Mishan\source\repos\ArraysExercise\MaxSequenceOfNums\bin\Debug\net5.0\ref\MaxSequenceOfNums.dll
+C:\Users\Mishan\source\repos\ArraysExercise\MaxSequenceOfNums\bin\Debug\net5.0\MaxSequenceOfNums.pdb
+C:\Users\Mishan\source\repos\ArraysExercise\MaxSequenceOfNums\obj\Debug\net5.0\MaxSequenceOfNums.csproj.AssemblyReference.cache
+C:\Users\Mishan\source\repos\ArraysExercise\MaxSequenceOfNums\obj\Debug\net5.0\MaxSequenceOfNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\ArraysExercise\MaxSequenceOfNums\obj\Debug\net5.0\MaxSequenceOfNums.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\ArraysExercise\MaxSequenceOfNums\obj\Debug\net5.0\MaxSequenceOfNums.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\ArraysExercise\MaxSequenceOfNums\obj\Debug\net5.0\MaxSequenceOfNums.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\ArraysExercise\MaxSequenceOfNums\obj\Debug\net5.0\MaxSequenceOfNums.dll
+C:\Users\Mishan\source\repos\ArraysExercise\MaxSequenceOfNums\obj\Debug\net5.0\ref\MaxSequenceOfNums.dll
+C:\Users\Mishan\source\repos\ArraysExercise\MaxSequenceOfNums\obj\Debug\net5.0\MaxSequenceOfNums.pdb
+C:\Users\Mishan\source\repos\ArraysExercise\MaxSequenceOfNums\obj\Debug\net5.0\MaxSequenceOfNums.genruntimeconfig.cache

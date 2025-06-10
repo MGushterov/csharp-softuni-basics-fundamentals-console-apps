@@ -1,0 +1,15 @@
+C:\Users\Mishan\source\repos\VariablesExercise\PrintPartOfAscii\bin\Debug\net5.0\PrintPartOfAscii.exe
+C:\Users\Mishan\source\repos\VariablesExercise\PrintPartOfAscii\bin\Debug\net5.0\PrintPartOfAscii.deps.json
+C:\Users\Mishan\source\repos\VariablesExercise\PrintPartOfAscii\bin\Debug\net5.0\PrintPartOfAscii.runtimeconfig.json
+C:\Users\Mishan\source\repos\VariablesExercise\PrintPartOfAscii\bin\Debug\net5.0\PrintPartOfAscii.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\VariablesExercise\PrintPartOfAscii\bin\Debug\net5.0\PrintPartOfAscii.dll
+C:\Users\Mishan\source\repos\VariablesExercise\PrintPartOfAscii\bin\Debug\net5.0\ref\PrintPartOfAscii.dll
+C:\Users\Mishan\source\repos\VariablesExercise\PrintPartOfAscii\bin\Debug\net5.0\PrintPartOfAscii.pdb
+C:\Users\Mishan\source\repos\VariablesExercise\PrintPartOfAscii\obj\Debug\net5.0\PrintPartOfAscii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\VariablesExercise\PrintPartOfAscii\obj\Debug\net5.0\PrintPartOfAscii.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\VariablesExercise\PrintPartOfAscii\obj\Debug\net5.0\PrintPartOfAscii.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\VariablesExercise\PrintPartOfAscii\obj\Debug\net5.0\PrintPartOfAscii.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\VariablesExercise\PrintPartOfAscii\obj\Debug\net5.0\PrintPartOfAscii.dll
+C:\Users\Mishan\source\repos\VariablesExercise\PrintPartOfAscii\obj\Debug\net5.0\ref\PrintPartOfAscii.dll
+C:\Users\Mishan\source\repos\VariablesExercise\PrintPartOfAscii\obj\Debug\net5.0\PrintPartOfAscii.pdb
+C:\Users\Mishan\source\repos\VariablesExercise\PrintPartOfAscii\obj\Debug\net5.0\PrintPartOfAscii.genruntimeconfig.cache

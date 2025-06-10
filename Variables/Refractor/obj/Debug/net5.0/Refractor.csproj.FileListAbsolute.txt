@@ -1,0 +1,15 @@
+C:\Users\Mishan\source\repos\Variables\Refractor\bin\Debug\net5.0\Refractor.exe
+C:\Users\Mishan\source\repos\Variables\Refractor\bin\Debug\net5.0\Refractor.deps.json
+C:\Users\Mishan\source\repos\Variables\Refractor\bin\Debug\net5.0\Refractor.runtimeconfig.json
+C:\Users\Mishan\source\repos\Variables\Refractor\bin\Debug\net5.0\Refractor.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\Variables\Refractor\bin\Debug\net5.0\Refractor.dll
+C:\Users\Mishan\source\repos\Variables\Refractor\bin\Debug\net5.0\ref\Refractor.dll
+C:\Users\Mishan\source\repos\Variables\Refractor\bin\Debug\net5.0\Refractor.pdb
+C:\Users\Mishan\source\repos\Variables\Refractor\obj\Debug\net5.0\Refractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\Variables\Refractor\obj\Debug\net5.0\Refractor.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\Variables\Refractor\obj\Debug\net5.0\Refractor.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\Variables\Refractor\obj\Debug\net5.0\Refractor.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\Variables\Refractor\obj\Debug\net5.0\Refractor.dll
+C:\Users\Mishan\source\repos\Variables\Refractor\obj\Debug\net5.0\ref\Refractor.dll
+C:\Users\Mishan\source\repos\Variables\Refractor\obj\Debug\net5.0\Refractor.pdb
+C:\Users\Mishan\source\repos\Variables\Refractor\obj\Debug\net5.0\Refractor.genruntimeconfig.cache

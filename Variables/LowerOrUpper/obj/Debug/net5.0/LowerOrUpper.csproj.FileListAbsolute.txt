@@ -1,0 +1,15 @@
+C:\Users\Mishan\source\repos\Variables\LowerOrUpper\bin\Debug\net5.0\LowerOrUpper.exe
+C:\Users\Mishan\source\repos\Variables\LowerOrUpper\bin\Debug\net5.0\LowerOrUpper.deps.json
+C:\Users\Mishan\source\repos\Variables\LowerOrUpper\bin\Debug\net5.0\LowerOrUpper.runtimeconfig.json
+C:\Users\Mishan\source\repos\Variables\LowerOrUpper\bin\Debug\net5.0\LowerOrUpper.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\Variables\LowerOrUpper\bin\Debug\net5.0\LowerOrUpper.dll
+C:\Users\Mishan\source\repos\Variables\LowerOrUpper\bin\Debug\net5.0\ref\LowerOrUpper.dll
+C:\Users\Mishan\source\repos\Variables\LowerOrUpper\bin\Debug\net5.0\LowerOrUpper.pdb
+C:\Users\Mishan\source\repos\Variables\LowerOrUpper\obj\Debug\net5.0\LowerOrUpper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\Variables\LowerOrUpper\obj\Debug\net5.0\LowerOrUpper.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\Variables\LowerOrUpper\obj\Debug\net5.0\LowerOrUpper.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\Variables\LowerOrUpper\obj\Debug\net5.0\LowerOrUpper.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\Variables\LowerOrUpper\obj\Debug\net5.0\LowerOrUpper.dll
+C:\Users\Mishan\source\repos\Variables\LowerOrUpper\obj\Debug\net5.0\ref\LowerOrUpper.dll
+C:\Users\Mishan\source\repos\Variables\LowerOrUpper\obj\Debug\net5.0\LowerOrUpper.pdb
+C:\Users\Mishan\source\repos\Variables\LowerOrUpper\obj\Debug\net5.0\LowerOrUpper.genruntimeconfig.cache

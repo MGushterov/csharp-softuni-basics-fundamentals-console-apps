@@ -1,0 +1,15 @@
+C:\Users\Mishan\source\repos\BasicSyntaxExc\ConsoleApp1\bin\Debug\net5.0\Orders.exe
+C:\Users\Mishan\source\repos\BasicSyntaxExc\ConsoleApp1\bin\Debug\net5.0\Orders.deps.json
+C:\Users\Mishan\source\repos\BasicSyntaxExc\ConsoleApp1\bin\Debug\net5.0\Orders.runtimeconfig.json
+C:\Users\Mishan\source\repos\BasicSyntaxExc\ConsoleApp1\bin\Debug\net5.0\Orders.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\BasicSyntaxExc\ConsoleApp1\bin\Debug\net5.0\Orders.dll
+C:\Users\Mishan\source\repos\BasicSyntaxExc\ConsoleApp1\bin\Debug\net5.0\ref\Orders.dll
+C:\Users\Mishan\source\repos\BasicSyntaxExc\ConsoleApp1\bin\Debug\net5.0\Orders.pdb
+C:\Users\Mishan\source\repos\BasicSyntaxExc\ConsoleApp1\obj\Debug\net5.0\Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\BasicSyntaxExc\ConsoleApp1\obj\Debug\net5.0\Orders.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\BasicSyntaxExc\ConsoleApp1\obj\Debug\net5.0\Orders.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\BasicSyntaxExc\ConsoleApp1\obj\Debug\net5.0\Orders.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\BasicSyntaxExc\ConsoleApp1\obj\Debug\net5.0\Orders.dll
+C:\Users\Mishan\source\repos\BasicSyntaxExc\ConsoleApp1\obj\Debug\net5.0\ref\Orders.dll
+C:\Users\Mishan\source\repos\BasicSyntaxExc\ConsoleApp1\obj\Debug\net5.0\Orders.pdb
+C:\Users\Mishan\source\repos\BasicSyntaxExc\ConsoleApp1\obj\Debug\net5.0\Orders.genruntimeconfig.cache

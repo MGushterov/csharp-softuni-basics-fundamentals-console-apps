@@ -1,0 +1,16 @@
+C:\Users\ANG\.dotnet\repos\MethodsExercise\NxN\bin\Debug\net5.0\NxN.exe
+C:\Users\ANG\.dotnet\repos\MethodsExercise\NxN\bin\Debug\net5.0\NxN.deps.json
+C:\Users\ANG\.dotnet\repos\MethodsExercise\NxN\bin\Debug\net5.0\NxN.runtimeconfig.json
+C:\Users\ANG\.dotnet\repos\MethodsExercise\NxN\bin\Debug\net5.0\NxN.runtimeconfig.dev.json
+C:\Users\ANG\.dotnet\repos\MethodsExercise\NxN\bin\Debug\net5.0\NxN.dll
+C:\Users\ANG\.dotnet\repos\MethodsExercise\NxN\bin\Debug\net5.0\ref\NxN.dll
+C:\Users\ANG\.dotnet\repos\MethodsExercise\NxN\bin\Debug\net5.0\NxN.pdb
+C:\Users\ANG\.dotnet\repos\MethodsExercise\NxN\obj\Debug\net5.0\NxN.csproj.AssemblyReference.cache
+C:\Users\ANG\.dotnet\repos\MethodsExercise\NxN\obj\Debug\net5.0\NxN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANG\.dotnet\repos\MethodsExercise\NxN\obj\Debug\net5.0\NxN.AssemblyInfoInputs.cache
+C:\Users\ANG\.dotnet\repos\MethodsExercise\NxN\obj\Debug\net5.0\NxN.AssemblyInfo.cs
+C:\Users\ANG\.dotnet\repos\MethodsExercise\NxN\obj\Debug\net5.0\NxN.csproj.CoreCompileInputs.cache
+C:\Users\ANG\.dotnet\repos\MethodsExercise\NxN\obj\Debug\net5.0\NxN.dll
+C:\Users\ANG\.dotnet\repos\MethodsExercise\NxN\obj\Debug\net5.0\ref\NxN.dll
+C:\Users\ANG\.dotnet\repos\MethodsExercise\NxN\obj\Debug\net5.0\NxN.pdb
+C:\Users\ANG\.dotnet\repos\MethodsExercise\NxN\obj\Debug\net5.0\NxN.genruntimeconfig.cache

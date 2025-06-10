@@ -1,0 +1,16 @@
+C:\Users\Mishan\source\repos\BasicSyntaxLab\MonthPrinter\bin\Debug\net5.0\MonthPrinter.exe
+C:\Users\Mishan\source\repos\BasicSyntaxLab\MonthPrinter\bin\Debug\net5.0\MonthPrinter.deps.json
+C:\Users\Mishan\source\repos\BasicSyntaxLab\MonthPrinter\bin\Debug\net5.0\MonthPrinter.runtimeconfig.json
+C:\Users\Mishan\source\repos\BasicSyntaxLab\MonthPrinter\bin\Debug\net5.0\MonthPrinter.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\BasicSyntaxLab\MonthPrinter\bin\Debug\net5.0\MonthPrinter.dll
+C:\Users\Mishan\source\repos\BasicSyntaxLab\MonthPrinter\bin\Debug\net5.0\ref\MonthPrinter.dll
+C:\Users\Mishan\source\repos\BasicSyntaxLab\MonthPrinter\bin\Debug\net5.0\MonthPrinter.pdb
+C:\Users\Mishan\source\repos\BasicSyntaxLab\MonthPrinter\obj\Debug\net5.0\MonthPrinter.csproj.AssemblyReference.cache
+C:\Users\Mishan\source\repos\BasicSyntaxLab\MonthPrinter\obj\Debug\net5.0\MonthPrinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\BasicSyntaxLab\MonthPrinter\obj\Debug\net5.0\MonthPrinter.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\BasicSyntaxLab\MonthPrinter\obj\Debug\net5.0\MonthPrinter.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\BasicSyntaxLab\MonthPrinter\obj\Debug\net5.0\MonthPrinter.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\BasicSyntaxLab\MonthPrinter\obj\Debug\net5.0\MonthPrinter.dll
+C:\Users\Mishan\source\repos\BasicSyntaxLab\MonthPrinter\obj\Debug\net5.0\ref\MonthPrinter.dll
+C:\Users\Mishan\source\repos\BasicSyntaxLab\MonthPrinter\obj\Debug\net5.0\MonthPrinter.pdb
+C:\Users\Mishan\source\repos\BasicSyntaxLab\MonthPrinter\obj\Debug\net5.0\MonthPrinter.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MetersToKm/1.0.0": {
+        "runtime": {
+          "MetersToKm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MetersToKm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

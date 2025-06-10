@@ -1,0 +1,16 @@
+C:\Users\Mishan\source\repos\VariablesExercise\SumDigits\bin\Debug\net5.0\SumDigits.exe
+C:\Users\Mishan\source\repos\VariablesExercise\SumDigits\bin\Debug\net5.0\SumDigits.deps.json
+C:\Users\Mishan\source\repos\VariablesExercise\SumDigits\bin\Debug\net5.0\SumDigits.runtimeconfig.json
+C:\Users\Mishan\source\repos\VariablesExercise\SumDigits\bin\Debug\net5.0\SumDigits.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\VariablesExercise\SumDigits\bin\Debug\net5.0\SumDigits.dll
+C:\Users\Mishan\source\repos\VariablesExercise\SumDigits\bin\Debug\net5.0\ref\SumDigits.dll
+C:\Users\Mishan\source\repos\VariablesExercise\SumDigits\bin\Debug\net5.0\SumDigits.pdb
+C:\Users\Mishan\source\repos\VariablesExercise\SumDigits\obj\Debug\net5.0\SumDigits.csproj.AssemblyReference.cache
+C:\Users\Mishan\source\repos\VariablesExercise\SumDigits\obj\Debug\net5.0\SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\VariablesExercise\SumDigits\obj\Debug\net5.0\SumDigits.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\VariablesExercise\SumDigits\obj\Debug\net5.0\SumDigits.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\VariablesExercise\SumDigits\obj\Debug\net5.0\SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\VariablesExercise\SumDigits\obj\Debug\net5.0\SumDigits.dll
+C:\Users\Mishan\source\repos\VariablesExercise\SumDigits\obj\Debug\net5.0\ref\SumDigits.dll
+C:\Users\Mishan\source\repos\VariablesExercise\SumDigits\obj\Debug\net5.0\SumDigits.pdb
+C:\Users\Mishan\source\repos\VariablesExercise\SumDigits\obj\Debug\net5.0\SumDigits.genruntimeconfig.cache

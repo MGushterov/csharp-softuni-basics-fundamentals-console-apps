@@ -1,0 +1,15 @@
+C:\Users\Mishan\source\repos\ArraysExercise\PascalTriangle\bin\Debug\net5.0\PascalTriangle.exe
+C:\Users\Mishan\source\repos\ArraysExercise\PascalTriangle\bin\Debug\net5.0\PascalTriangle.deps.json
+C:\Users\Mishan\source\repos\ArraysExercise\PascalTriangle\bin\Debug\net5.0\PascalTriangle.runtimeconfig.json
+C:\Users\Mishan\source\repos\ArraysExercise\PascalTriangle\bin\Debug\net5.0\PascalTriangle.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\ArraysExercise\PascalTriangle\bin\Debug\net5.0\PascalTriangle.dll
+C:\Users\Mishan\source\repos\ArraysExercise\PascalTriangle\bin\Debug\net5.0\ref\PascalTriangle.dll
+C:\Users\Mishan\source\repos\ArraysExercise\PascalTriangle\bin\Debug\net5.0\PascalTriangle.pdb
+C:\Users\Mishan\source\repos\ArraysExercise\PascalTriangle\obj\Debug\net5.0\PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\ArraysExercise\PascalTriangle\obj\Debug\net5.0\PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\ArraysExercise\PascalTriangle\obj\Debug\net5.0\PascalTriangle.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\ArraysExercise\PascalTriangle\obj\Debug\net5.0\PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\ArraysExercise\PascalTriangle\obj\Debug\net5.0\PascalTriangle.dll
+C:\Users\Mishan\source\repos\ArraysExercise\PascalTriangle\obj\Debug\net5.0\ref\PascalTriangle.dll
+C:\Users\Mishan\source\repos\ArraysExercise\PascalTriangle\obj\Debug\net5.0\PascalTriangle.pdb
+C:\Users\Mishan\source\repos\ArraysExercise\PascalTriangle\obj\Debug\net5.0\PascalTriangle.genruntimeconfig.cache

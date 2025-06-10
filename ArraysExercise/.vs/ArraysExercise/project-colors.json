@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "060880c3-8e09-4efd-97cf-818313dbe280": {
+      "ProjectGuid": "060880c3-8e09-4efd-97cf-818313dbe280",
+      "DisplayName": "Train",
+      "ColorIndex": 0
+    },
+    "89c2aca8-b7f0-4bff-81ce-80aa45973f23": {
+      "ProjectGuid": "89c2aca8-b7f0-4bff-81ce-80aa45973f23",
+      "DisplayName": "CommonElements",
+      "ColorIndex": 1
+    },
+    "ab3a9fa0-674b-4d68-8a82-856017917d4d": {
+      "ProjectGuid": "ab3a9fa0-674b-4d68-8a82-856017917d4d",
+      "DisplayName": "ZigZagArrays",
+      "ColorIndex": 2
+    },
+    "efe0f910-ab66-42ba-a130-ce5424ea3825": {
+      "ProjectGuid": "efe0f910-ab66-42ba-a130-ce5424ea3825",
+      "DisplayName": "ArrayRotation",
+      "ColorIndex": 3
+    },
+    "ab53429d-618e-4dbe-85d2-fc87a5519461": {
+      "ProjectGuid": "ab53429d-618e-4dbe-85d2-fc87a5519461",
+      "DisplayName": "TopIntegers",
+      "ColorIndex": 4
+    },
+    "efe700d3-0e33-4ed8-ab7a-fc6da39eb872": {
+      "ProjectGuid": "efe700d3-0e33-4ed8-ab7a-fc6da39eb872",
+      "DisplayName": "EqualSum",
+      "ColorIndex": 5
+    },
+    "bd0eb410-70bd-4e7d-8d6e-9d535ef5759b": {
+      "ProjectGuid": "bd0eb410-70bd-4e7d-8d6e-9d535ef5759b",
+      "DisplayName": "MaxSequenceOfNums",
+      "ColorIndex": 6
+    },
+    "1c1c2b07-5599-4cef-a3ac-1142d0bda3e7": {
+      "ProjectGuid": "1c1c2b07-5599-4cef-a3ac-1142d0bda3e7",
+      "DisplayName": "MagicSum",
+      "ColorIndex": 7
+    },
+    "a3417c4c-beb9-48e2-a12a-6fdc6c33383e": {
+      "ProjectGuid": "a3417c4c-beb9-48e2-a12a-6fdc6c33383e",
+      "DisplayName": "KaminoFactory",
+      "ColorIndex": 8
+    },
+    "47e4a415-4710-4280-8910-c9f783c832d7": {
+      "ProjectGuid": "47e4a415-4710-4280-8910-c9f783c832d7",
+      "DisplayName": "LadyBugs",
+      "ColorIndex": 9
+    },
+    "536b893b-2cfd-4f20-acbf-5724330cc623": {
+      "ProjectGuid": "536b893b-2cfd-4f20-acbf-5724330cc623",
+      "DisplayName": "EncryptSortPrint",
+      "ColorIndex": 10
+    },
+    "966a7f96-6ac8-413c-b202-392e57c9d849": {
+      "ProjectGuid": "966a7f96-6ac8-413c-b202-392e57c9d849",
+      "DisplayName": "PascalTriangle",
+      "ColorIndex": 11
+    },
+    "8090053c-2800-4fb2-880b-47610fef3c69": {
+      "ProjectGuid": "8090053c-2800-4fb2-880b-47610fef3c69",
+      "DisplayName": "RecursiveFibonacci",
+      "ColorIndex": 12
+    },
+    "83e8e60f-5cf2-4b33-9399-5e0a4703b766": {
+      "ProjectGuid": "83e8e60f-5cf2-4b33-9399-5e0a4703b766",
+      "DisplayName": "FoldAndSum",
+      "ColorIndex": 13
+    },
+    "47bd3160-311f-48a6-8eab-b46001f931ec": {
+      "ProjectGuid": "47bd3160-311f-48a6-8eab-b46001f931ec",
+      "DisplayName": "FoldAndSumTest",
+      "ColorIndex": 14
+    },
+    "2a5e0609-da07-4f0a-a1b1-a7cc90aa1520": {
+      "ProjectGuid": "2a5e0609-da07-4f0a-a1b1-a7cc90aa1520",
+      "DisplayName": "LIS",
+      "ColorIndex": 15
+    }
+  },
+  "NextColorIndex": 0
+}

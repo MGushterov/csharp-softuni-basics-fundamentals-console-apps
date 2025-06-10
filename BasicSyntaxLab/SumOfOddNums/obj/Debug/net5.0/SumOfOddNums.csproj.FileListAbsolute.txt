@@ -1,0 +1,15 @@
+C:\Users\Mishan\source\repos\BasicSyntaxLab\SumOfOddNums\bin\Debug\net5.0\SumOfOddNums.exe
+C:\Users\Mishan\source\repos\BasicSyntaxLab\SumOfOddNums\bin\Debug\net5.0\SumOfOddNums.deps.json
+C:\Users\Mishan\source\repos\BasicSyntaxLab\SumOfOddNums\bin\Debug\net5.0\SumOfOddNums.runtimeconfig.json
+C:\Users\Mishan\source\repos\BasicSyntaxLab\SumOfOddNums\bin\Debug\net5.0\SumOfOddNums.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\BasicSyntaxLab\SumOfOddNums\bin\Debug\net5.0\SumOfOddNums.dll
+C:\Users\Mishan\source\repos\BasicSyntaxLab\SumOfOddNums\bin\Debug\net5.0\ref\SumOfOddNums.dll
+C:\Users\Mishan\source\repos\BasicSyntaxLab\SumOfOddNums\bin\Debug\net5.0\SumOfOddNums.pdb
+C:\Users\Mishan\source\repos\BasicSyntaxLab\SumOfOddNums\obj\Debug\net5.0\SumOfOddNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\BasicSyntaxLab\SumOfOddNums\obj\Debug\net5.0\SumOfOddNums.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\BasicSyntaxLab\SumOfOddNums\obj\Debug\net5.0\SumOfOddNums.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\BasicSyntaxLab\SumOfOddNums\obj\Debug\net5.0\SumOfOddNums.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\BasicSyntaxLab\SumOfOddNums\obj\Debug\net5.0\SumOfOddNums.dll
+C:\Users\Mishan\source\repos\BasicSyntaxLab\SumOfOddNums\obj\Debug\net5.0\ref\SumOfOddNums.dll
+C:\Users\Mishan\source\repos\BasicSyntaxLab\SumOfOddNums\obj\Debug\net5.0\SumOfOddNums.pdb
+C:\Users\Mishan\source\repos\BasicSyntaxLab\SumOfOddNums\obj\Debug\net5.0\SumOfOddNums.genruntimeconfig.cache

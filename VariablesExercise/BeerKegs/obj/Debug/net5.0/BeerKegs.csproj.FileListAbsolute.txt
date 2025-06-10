@@ -1,0 +1,16 @@
+C:\Users\Mishan\source\repos\VariablesExercise\BeerKegs\bin\Debug\net5.0\BeerKegs.exe
+C:\Users\Mishan\source\repos\VariablesExercise\BeerKegs\bin\Debug\net5.0\BeerKegs.deps.json
+C:\Users\Mishan\source\repos\VariablesExercise\BeerKegs\bin\Debug\net5.0\BeerKegs.runtimeconfig.json
+C:\Users\Mishan\source\repos\VariablesExercise\BeerKegs\bin\Debug\net5.0\BeerKegs.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\VariablesExercise\BeerKegs\bin\Debug\net5.0\BeerKegs.dll
+C:\Users\Mishan\source\repos\VariablesExercise\BeerKegs\bin\Debug\net5.0\ref\BeerKegs.dll
+C:\Users\Mishan\source\repos\VariablesExercise\BeerKegs\bin\Debug\net5.0\BeerKegs.pdb
+C:\Users\Mishan\source\repos\VariablesExercise\BeerKegs\obj\Debug\net5.0\BeerKegs.csproj.AssemblyReference.cache
+C:\Users\Mishan\source\repos\VariablesExercise\BeerKegs\obj\Debug\net5.0\BeerKegs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\VariablesExercise\BeerKegs\obj\Debug\net5.0\BeerKegs.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\VariablesExercise\BeerKegs\obj\Debug\net5.0\BeerKegs.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\VariablesExercise\BeerKegs\obj\Debug\net5.0\BeerKegs.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\VariablesExercise\BeerKegs\obj\Debug\net5.0\BeerKegs.dll
+C:\Users\Mishan\source\repos\VariablesExercise\BeerKegs\obj\Debug\net5.0\ref\BeerKegs.dll
+C:\Users\Mishan\source\repos\VariablesExercise\BeerKegs\obj\Debug\net5.0\BeerKegs.pdb
+C:\Users\Mishan\source\repos\VariablesExercise\BeerKegs\obj\Debug\net5.0\BeerKegs.genruntimeconfig.cache

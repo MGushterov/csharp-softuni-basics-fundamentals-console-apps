@@ -1,0 +1,15 @@
+C:\Users\Mishan\source\repos\VariablesExercise\SumOfChars\bin\Debug\net5.0\SumOfChars.exe
+C:\Users\Mishan\source\repos\VariablesExercise\SumOfChars\bin\Debug\net5.0\SumOfChars.deps.json
+C:\Users\Mishan\source\repos\VariablesExercise\SumOfChars\bin\Debug\net5.0\SumOfChars.runtimeconfig.json
+C:\Users\Mishan\source\repos\VariablesExercise\SumOfChars\bin\Debug\net5.0\SumOfChars.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\VariablesExercise\SumOfChars\bin\Debug\net5.0\SumOfChars.dll
+C:\Users\Mishan\source\repos\VariablesExercise\SumOfChars\bin\Debug\net5.0\ref\SumOfChars.dll
+C:\Users\Mishan\source\repos\VariablesExercise\SumOfChars\bin\Debug\net5.0\SumOfChars.pdb
+C:\Users\Mishan\source\repos\VariablesExercise\SumOfChars\obj\Debug\net5.0\SumOfChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\VariablesExercise\SumOfChars\obj\Debug\net5.0\SumOfChars.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\VariablesExercise\SumOfChars\obj\Debug\net5.0\SumOfChars.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\VariablesExercise\SumOfChars\obj\Debug\net5.0\SumOfChars.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\VariablesExercise\SumOfChars\obj\Debug\net5.0\SumOfChars.dll
+C:\Users\Mishan\source\repos\VariablesExercise\SumOfChars\obj\Debug\net5.0\ref\SumOfChars.dll
+C:\Users\Mishan\source\repos\VariablesExercise\SumOfChars\obj\Debug\net5.0\SumOfChars.pdb
+C:\Users\Mishan\source\repos\VariablesExercise\SumOfChars\obj\Debug\net5.0\SumOfChars.genruntimeconfig.cache

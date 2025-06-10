@@ -1,0 +1,16 @@
+C:\Users\Mishan\source\repos\ages\VendingMachine\bin\Debug\net5.0\VendingMachine.exe
+C:\Users\Mishan\source\repos\ages\VendingMachine\bin\Debug\net5.0\VendingMachine.deps.json
+C:\Users\Mishan\source\repos\ages\VendingMachine\bin\Debug\net5.0\VendingMachine.runtimeconfig.json
+C:\Users\Mishan\source\repos\ages\VendingMachine\bin\Debug\net5.0\VendingMachine.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\ages\VendingMachine\bin\Debug\net5.0\VendingMachine.dll
+C:\Users\Mishan\source\repos\ages\VendingMachine\bin\Debug\net5.0\ref\VendingMachine.dll
+C:\Users\Mishan\source\repos\ages\VendingMachine\bin\Debug\net5.0\VendingMachine.pdb
+C:\Users\Mishan\source\repos\ages\VendingMachine\obj\Debug\net5.0\VendingMachine.csproj.AssemblyReference.cache
+C:\Users\Mishan\source\repos\ages\VendingMachine\obj\Debug\net5.0\VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\ages\VendingMachine\obj\Debug\net5.0\VendingMachine.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\ages\VendingMachine\obj\Debug\net5.0\VendingMachine.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\ages\VendingMachine\obj\Debug\net5.0\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\ages\VendingMachine\obj\Debug\net5.0\VendingMachine.dll
+C:\Users\Mishan\source\repos\ages\VendingMachine\obj\Debug\net5.0\ref\VendingMachine.dll
+C:\Users\Mishan\source\repos\ages\VendingMachine\obj\Debug\net5.0\VendingMachine.pdb
+C:\Users\Mishan\source\repos\ages\VendingMachine\obj\Debug\net5.0\VendingMachine.genruntimeconfig.cache

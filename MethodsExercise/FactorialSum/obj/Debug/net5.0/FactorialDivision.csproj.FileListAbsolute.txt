@@ -1,0 +1,15 @@
+C:\Users\ANG\.dotnet\repos\MethodsExercise\FactorialSum\bin\Debug\net5.0\FactorialDivision.exe
+C:\Users\ANG\.dotnet\repos\MethodsExercise\FactorialSum\bin\Debug\net5.0\FactorialDivision.deps.json
+C:\Users\ANG\.dotnet\repos\MethodsExercise\FactorialSum\bin\Debug\net5.0\FactorialDivision.runtimeconfig.json
+C:\Users\ANG\.dotnet\repos\MethodsExercise\FactorialSum\bin\Debug\net5.0\FactorialDivision.runtimeconfig.dev.json
+C:\Users\ANG\.dotnet\repos\MethodsExercise\FactorialSum\bin\Debug\net5.0\FactorialDivision.dll
+C:\Users\ANG\.dotnet\repos\MethodsExercise\FactorialSum\bin\Debug\net5.0\ref\FactorialDivision.dll
+C:\Users\ANG\.dotnet\repos\MethodsExercise\FactorialSum\bin\Debug\net5.0\FactorialDivision.pdb
+C:\Users\ANG\.dotnet\repos\MethodsExercise\FactorialSum\obj\Debug\net5.0\FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANG\.dotnet\repos\MethodsExercise\FactorialSum\obj\Debug\net5.0\FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\ANG\.dotnet\repos\MethodsExercise\FactorialSum\obj\Debug\net5.0\FactorialDivision.AssemblyInfo.cs
+C:\Users\ANG\.dotnet\repos\MethodsExercise\FactorialSum\obj\Debug\net5.0\FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\ANG\.dotnet\repos\MethodsExercise\FactorialSum\obj\Debug\net5.0\FactorialDivision.dll
+C:\Users\ANG\.dotnet\repos\MethodsExercise\FactorialSum\obj\Debug\net5.0\ref\FactorialDivision.dll
+C:\Users\ANG\.dotnet\repos\MethodsExercise\FactorialSum\obj\Debug\net5.0\FactorialDivision.pdb
+C:\Users\ANG\.dotnet\repos\MethodsExercise\FactorialSum\obj\Debug\net5.0\FactorialDivision.genruntimeconfig.cache

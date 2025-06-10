@@ -1,0 +1,16 @@
+C:\Users\Mishan\source\repos\ArraysExercise\CommonElements\bin\Debug\net5.0\CommonElements.exe
+C:\Users\Mishan\source\repos\ArraysExercise\CommonElements\bin\Debug\net5.0\CommonElements.deps.json
+C:\Users\Mishan\source\repos\ArraysExercise\CommonElements\bin\Debug\net5.0\CommonElements.runtimeconfig.json
+C:\Users\Mishan\source\repos\ArraysExercise\CommonElements\bin\Debug\net5.0\CommonElements.runtimeconfig.dev.json
+C:\Users\Mishan\source\repos\ArraysExercise\CommonElements\bin\Debug\net5.0\CommonElements.dll
+C:\Users\Mishan\source\repos\ArraysExercise\CommonElements\bin\Debug\net5.0\ref\CommonElements.dll
+C:\Users\Mishan\source\repos\ArraysExercise\CommonElements\bin\Debug\net5.0\CommonElements.pdb
+C:\Users\Mishan\source\repos\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.csproj.AssemblyReference.cache
+C:\Users\Mishan\source\repos\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishan\source\repos\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.AssemblyInfoInputs.cache
+C:\Users\Mishan\source\repos\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.AssemblyInfo.cs
+C:\Users\Mishan\source\repos\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\Mishan\source\repos\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.dll
+C:\Users\Mishan\source\repos\ArraysExercise\CommonElements\obj\Debug\net5.0\ref\CommonElements.dll
+C:\Users\Mishan\source\repos\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.pdb
+C:\Users\Mishan\source\repos\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.genruntimeconfig.cache
